@@ -13,7 +13,8 @@ O Ionic também possui integração com o Cordova tornando capaz a utilização 
 [TO-DO]
 
 ##Artigos
-[TO-DO]
+* [Introdução ao Ionic Framework](http://tableless.com.br/introducao-ao-ionic-framework/) por Tableless
+* [Aplicativos mobile com o AngularJS e Ionic](http://frontinbrazil.com.br/aplicativos-mobile-com-o-angularjs-e-ionic/) por Front in Brazil
 
 ##Livros
 [TO-DO]

@@ -7,7 +7,7 @@ Este guia é baseado no repositório [Ionic Adventures](http://github.com/juarez
 ## O que é o Ionic?
 O Ionic SDK é um projeto Open Source gratuito usado no desenvolvimento de aplicativos híbridos para as plataformas Android 4.4+ e iOS 6+ com suporte parcial ao Windows Phone. Ionic SDK utiliza os recursos do HTML, CSS, Javascript e AngularJS, que possui o objetivo de deixar a experiência do usuário fluída e diminuir o tempo de desenvolvimento, e tem ganho notoriedade também pelo conjunto de ferramentas disponibilizados como Ionic View, Ionic Push, entre outras.
 
-O Ionic também possui integração com o Cordova tornando capaz a utilização de recursos nativos dos dispositivos.
+O Ionic também possui integração com o [Cordova](https://cordova.apache.org/) e o [ngCordova](http://ngcordova.com/) tornando capaz a utilização de recursos nativos dos dispositivos.
 
 ##Apresentações
 [TO-DO]

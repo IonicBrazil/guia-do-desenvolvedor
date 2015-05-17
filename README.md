@@ -10,7 +10,7 @@ O Ionic SDK é um projeto Open Source gratuito usado no desenvolvimento de aplic
 O Ionic também possui integração com o [Cordova](https://cordova.apache.org/) e o [ngCordova](http://ngcordova.com/) tornando capaz a utilização de recursos nativos dos dispositivos.
 
 ##Apresentações
-[TO-DO]
+* [Aplicativos Híbridos com Ionic. Você também pode começar a desenvolver agora!](http://www.tiagoporto.com/aplicativos-hibridos-com-ionic-voce-tambem-pode-comecar-a-desenvolver-agora) por [@tiagoporto](https://github.com/tiagoporto)
 
 ##Artigos
 * [Introdução ao Ionic Framework](http://tableless.com.br/introducao-ao-ionic-framework/) por [@grillorafael](https://github.com/grillorafael)

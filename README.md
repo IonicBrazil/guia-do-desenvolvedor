@@ -9,27 +9,53 @@ O Ionic SDK é um projeto Open Source gratuito usado no desenvolvimento de aplic
 
 O Ionic também possui integração com o [Cordova](https://cordova.apache.org/) e o [ngCordova](http://ngcordova.com/) tornando capaz a utilização de recursos nativos dos dispositivos.
 
-##Apresentações
-* [Aplicativos Híbridos com Ionic. Você também pode começar a desenvolver agora!](http://www.tiagoporto.com/aplicativos-hibridos-com-ionic-voce-tambem-pode-comecar-a-desenvolver-agora) por [@tiagoporto](https://github.com/tiagoporto)
+## Apresentações
 
-##Artigos
-* [Introdução ao Ionic Framework](http://tableless.com.br/introducao-ao-ionic-framework/) por [@grillorafael](https://github.com/grillorafael)
-* [Aplicativos mobile com o AngularJS e Ionic](http://frontinbrazil.com.br/aplicativos-mobile-com-o-angularjs-e-ionic/) por [@JLCarv](https://github.com/JLCarv)
-* [Criando aplicativo com Ionic Framework](http://nicholasess.com.br/desenvolvimento/criando-aplicativo-com-ionic-framework-serie/) por [@nicholasess](https://github.com/nicholasess)
+* [Aplicativos Híbridos com Ionic. Você também pode começar a desenvolver agora!](http://www.tiagoporto.com/aplicativos-hibridos-com-ionic-voce-tambem-pode-comecar-a-desenvolver-agora) por @tiagoporto
+* [Ionic Rocks!](https://speakerdeck.com/vitormalencar/ionic-rocks) por @vitormalencar
+* [Construindo Aplicativos Híbridos com Ionic Framework](http://alvarowolfx.github.io/ionic-present/#/) por @alvinhuuu
 
-##Livros
-[TO-DO]
+## Artigos
 
-##Cursos e Workshops
-[TO-DO]
+* :zap: [O que eu preciso saber para começar com Ionic Framework](http://tutsmais.com.br/blog/ionicframework/o-que-eu-preciso-saber-para-comecar-com-ionic-framework) por @felquis
+* [Introdução ao Ionic Framework](http://tableless.com.br/introducao-ao-ionic-framework/) por @grillorafael
+* [Aplicativos mobile com o AngularJS e Ionic](http://frontinbrazil.com.br/aplicativos-mobile-com-o-angularjs-e-ionic/) por @JLCarv
+* [Criando aplicativo com Ionic Framework](http://nicholasess.com.br/desenvolvimento/criando-aplicativo-com-ionic-framework-serie/) por @nicholasess
+* [Apps Híbridas com Cordova e Ionic #1](http://luisvasconcellos.com/2015/04/06/apps-hibridas-com-cordova-e-ionic.html) por @vasconcelloslf
 
-##Ferramentas
-[TO-DO]
+## Livros
 
-##Open Source
-[TO-DO]
+* [The Ionic Book](http://ionicframework.com/docs/guide/) por @ionicframework
+* [Ionic in Action](http://www.manning.com/wilken) por @gnomeontherun 
+* [Developing an Ionic Edge](http://bleedingedgepress.com/developing-ionic-edge/) por @keithdmoore94
+* [Full Stack Mobile App with Ionic Framework](http://amzn.com/B00QF1H380) por Hoc Phan
 
-##Comunidade Ionic Brazil
+## Eventos, Cursos e Workshops
+
+* [JSday - Feira de Santana](http://www.jsday.com.br/) `05/06/2015` - *Ionic Framework: The excuses are over to start to create amazing apps* por @MatheusCAS
+* [Workshop Ionic Framework e Firebase em São Paulo](https://kaumac.typeform.com/to/ovUnoW) `pré-cadastro`
+* [Front in Fortaleza](http://www.frontinfortaleza.com.br/) - *Ionic Rocks!* por @vitormalencar
+
+## Ferramentas
+
+* [Ionic Creator](https://creator.ionic.io/)
+
+## Open Source
+
+* [Front in Fortaleza App](https://github.com/devevents/front-in-fortaleza-app) por @mabrasil
+* [Front Cuiabá App](https://github.com/alvarowolfx/front-in-cuiaba-app) por @alvinhuuu
+* [Desafio Meetup Mobile Dev BH](https://github.com/tiagoporto/desafio-mobile) por @tiagoporto
+
+## Showcases no Brasil
+
+* [Mãe guru](http://maeguru.com.br/) por @fluid27
+* [Vivo open Air](https://itunes.apple.com/us/app/vivo-open-air/id940039537?mt=8) por @vasconcelloslf
+* [uPDV](https://play.google.com/store/apps/details?id=com.ionicframework.updv389492) por @MatheusCAS
+* [Peladeiro App](https://play.google.com/store/apps/details?id=com.alexandreoliveira.peladeiroapp) por @alexandreetf
+* [Giga Agenda](https://play.google.com/store/apps/details?id=com.tsp.gigaagenda532012)
+* [Renda Fixa](http://rendafixa.rocks/)
+
+## Comunidade Ionic Brazil
 ![Ionic Brazil](ionicbrazil.png)
 
 * [Twitter](http://twitter.com/ionicbrazil)

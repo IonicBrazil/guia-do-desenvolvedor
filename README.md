@@ -54,6 +54,7 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 * [Peladeiro App](https://play.google.com/store/apps/details?id=com.alexandreoliveira.peladeiroapp) por @alexandreetf
 * [Giga Agenda](https://play.google.com/store/apps/details?id=com.tsp.gigaagenda532012)
 * [Renda Fixa](http://rendafixa.rocks/)
+* [99folks](http://99folks.com) por @crp_underground
 
 ## Comunidade Ionic Brazil
 ![Ionic Brazil](ionicbrazil.png)

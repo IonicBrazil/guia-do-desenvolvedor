@@ -32,7 +32,9 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 
 ## Eventos, Cursos e Workshops
 
+* [MobileConf 2015 - Rio de Janeiro](http://www.mobileconf.com.br/) `28/05/2015 e 29/05/2015` - *Workshop de Phonegap com Ionic* por @Loiane
 * [JSday - Feira de Santana](http://www.jsday.com.br/) `05/06/2015` - *Ionic Framework: The excuses are over to start to create amazing apps* por @MatheusCAS
+* [FISL - Porto Alegre](http://softwarelivre.org/fisl16) `8 a 11 de Julho de 2015` - *Oficina de Phonegap com Ionic* por @Loiane
 * [Workshop Ionic Framework e Firebase em São Paulo](https://kaumac.typeform.com/to/ovUnoW) `pré-cadastro`
 * [Front in Fortaleza](http://www.frontinfortaleza.com.br/) - *Ionic Rocks!* por @vitormalencar
 

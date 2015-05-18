@@ -34,3 +34,8 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 
 * [Twitter](http://twitter.com/ionicbrazil)
 * [Slack](http://ionicbrazil.herokuapp.com)
+* [Facebook](https://www.facebook.com/groups/1558333777738228/?fref=ts)
+
+##Meetups
+* [Bahia](www.meetup.com/ionicbahia)
+* [Rio de Janeiro](http://www.meetup.com/Ionic-Rio-de-Janeiro)

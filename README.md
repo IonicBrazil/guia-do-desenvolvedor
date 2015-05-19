@@ -50,6 +50,7 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 * [Front in Fortaleza App](https://github.com/devevents/front-in-fortaleza-app) por @mabrasil
 * [Front Cuiabá App](https://github.com/alvarowolfx/front-in-cuiaba-app) por @alvinhuuu
 * [Desafio Meetup Mobile Dev BH](https://github.com/tiagoporto/desafio-mobile) por @tiagoporto
+* [Ionic + Parse.com Boilerplate](https://github.com/giorgiofellipe/ionic-angular-parse-boilerplate) por @giorgiofellipe
 
 ## Showcases no Brasil
 

@@ -51,7 +51,7 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 * [Front Cuiabá App](https://github.com/alvarowolfx/front-in-cuiaba-app) por @alvinhuuu
 * [Desafio Meetup Mobile Dev BH](https://github.com/tiagoporto/desafio-mobile) por @tiagoporto
 * [Ionic + Parse.com Boilerplate](https://github.com/giorgiofellipe/ionic-angular-parse-boilerplate) por @giiorgio_
-* [Ionic + PushWoosh Notifications](https://github.com/TiagoSilvaPereira/ionic-pushwoosh)
+* [Ionic + PushWoosh Notifications](https://github.com/TiagoSilvaPereira/ionic-pushwoosh) por @Tiago_Ferat
 
 ## Showcases no Brasil
 
@@ -62,6 +62,7 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 * [Renda Fixa](http://rendafixa.rocks/)
 * [99folks](http://99folks.com) por @crp_underground
 * [Giga Agenda](https://play.google.com/store/apps/details?id=com.tsp.gigaagenda532012) por @Tiago_Ferat
+* [Dia na História](https://play.google.com/store/apps/details?id=com.tsp.dayinhistory910335) por @Tiago_Ferat
 
 ## Comunidade Ionic Brazil
 ![Ionic Brazil](ionicbrazil.png)

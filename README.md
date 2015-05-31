@@ -63,6 +63,7 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 * [99folks](http://99folks.com) por @crp_underground
 * [Giga Agenda](https://play.google.com/store/apps/details?id=com.tsp.gigaagenda532012) por @Tiago_Ferat
 * [Dia na História](https://play.google.com/store/apps/details?id=com.tsp.dayinhistory910335) por @Tiago_Ferat
+* [Clinn.io](http://clinn.io/) por @cleiton_tav
 
 ## Comunidade Ionic Brazil
 ![Ionic Brazil](ionicbrazil.png)

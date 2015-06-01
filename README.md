@@ -60,7 +60,7 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 * [Giga Agenda](https://play.google.com/store/apps/details?id=com.tsp.gigaagenda532012)
 * [Renda Fixa](http://rendafixa.rocks/)
 * [99folks](http://99folks.com) por @crp_underground
-* [MobileConf 2015](http://goo.gl/wY5aoO) por @thompsonweb
+* [MobileConf 2015](http://goo.gl/wY5aoO) - Ionic View ID 20482a46 - por @thompsonweb
 
 ## Comunidade Ionic Brazil
 ![Ionic Brazil](ionicbrazil.png)

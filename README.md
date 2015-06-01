@@ -65,6 +65,7 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 * [Dia na História](https://play.google.com/store/apps/details?id=com.tsp.dayinhistory910335) por @Tiago_Ferat
 * [Clinn.io](http://clinn.io/) por @cleiton_tav
 * [Manabu Academy](https://play.google.com/store/apps/details?id=com.manabuacademy.manabuacademy) por @BrunoFDeveloper
+* [MobileConf 2015](http://goo.gl/wY5aoO) por @thompsonweb
 
 ## Comunidade Ionic Brazil
 ![Ionic Brazil](ionicbrazil.png)

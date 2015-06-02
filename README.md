@@ -52,6 +52,7 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 * [Desafio Meetup Mobile Dev BH](https://github.com/tiagoporto/desafio-mobile) por @tiagoporto
 * [Ionic + Parse.com Boilerplate](https://github.com/giorgiofellipe/ionic-angular-parse-boilerplate) por @giiorgio_
 * [Ionic + PushWoosh Notifications](https://github.com/TiagoSilvaPereira/ionic-pushwoosh) por @Tiago_Ferat
+* [Mobile Conf 2015](https://github.com/thompsonemerson/app-mobile-conf) por @thompsonweb
 
 ## Showcases no Brasil
 

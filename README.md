@@ -32,11 +32,12 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 
 ## Eventos, Cursos e Workshops
 
-* [MobileConf 2015 - Rio de Janeiro](http://www.mobileconf.com.br/) `28/05/2015 e 29/05/2015` - *Workshop de Phonegap com Ionic* por @Loiane
-* [JSday - Feira de Santana](http://www.jsday.com.br/) `05/06/2015` - *Ionic Framework: The excuses are over to start to create amazing apps* por @MatheusCAS
+
+* [JSday - Feira de Santana](http://www.jsday.com.br/) `06/06/2015` - *Ionic Framework: The excuses are over to start to create amazing apps* por @MatheusCAS
 * [Minicurso Ionic Framework em Salvador - BA](http://www.eventick.com.br/minicurso-ionic-framework) `04/07/2015 ` - *Minicurso de desenvolvimento de aplicativos móveis com Ionic* por @isaquedias 
 * [FISL - Porto Alegre](http://softwarelivre.org/fisl16) `8 a 11 de Julho de 2015` - *Oficina de Phonegap com Ionic* por @Loiane
 * [Workshop Ionic Framework e Firebase em São Paulo](https://kaumac.typeform.com/to/ovUnoW) `pré-cadastro`
+* [MobileConf 2015 - Rio de Janeiro](http://www.mobileconf.com.br/) - *Workshop de Phonegap com Ionic* por @Loiane
 * [Front in Fortaleza](http://www.frontinfortaleza.com.br/) - *Ionic Rocks!* por @vitormalencar
 
 ## Ferramentas
@@ -44,7 +45,7 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 * [Ionic Creator](https://creator.ionic.io/)
 * [Ionic playground](http://play.ionic.io/)
 * [Ionic View](http://view.ionic.io/)
-* [Ionic Push](https://apps.ionic.io/landing/push) - Em breve
+* [Ionic Push](https://apps.ionic.io/landing/push)
 
 ## Open Source
 
@@ -60,13 +61,14 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 * [Vivo open Air](https://itunes.apple.com/us/app/vivo-open-air/id940039537?mt=8) por @vasconcelloslf
 * [uPDV](https://play.google.com/store/apps/details?id=com.ionicframework.updv389492) por @MatheusCAS
 * [Peladeiro App](https://play.google.com/store/apps/details?id=com.alexandreoliveira.peladeiroapp) por @alexandreetf
-* [Renda Fixa](http://rendafixa.rocks/)
+* [Renda Fixa](http://rendafixa.rocks/) por @watermelon_tech
 * [99folks](http://99folks.com) por @crp_underground
 * [Giga Agenda](https://play.google.com/store/apps/details?id=com.tsp.gigaagenda532012) por @Tiago_Ferat
 * [Dia na História](https://play.google.com/store/apps/details?id=com.tsp.dayinhistory910335) por @Tiago_Ferat
 * [Clinn.io](http://clinn.io/) por @cleiton_tav
 * [Manabu Academy](https://play.google.com/store/apps/details?id=com.manabuacademy.manabuacademy) por @BrunoFDeveloper
-* [MobileConf 2015](http://goo.gl/wY5aoO) por @thompsonweb
+* [MobileConf 2015](http://goo.gl/wY5aoO) Ionic View ID 20482a46 por @thompsonweb
+* [Hora da aula - unisantos](https://play.google.com/store/apps/details?id=br.com.nicholasess.horadaulaunisantos&hl=pt_BR) por @nicholasess
 
 ## Comunidade Ionic Brazil
 ![Ionic Brazil](ionicbrazil.png)

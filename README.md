@@ -26,7 +26,7 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 ## Livros
 
 * [The Ionic Book](http://ionicframework.com/docs/guide/) por @ionicframework
-* [Ionic in Action](http://www.manning.com/wilken) por @gnomeontherun 
+* [Ionic in Action](http://www.manning.com/wilken) por @gnomeontherun
 * [Developing an Ionic Edge](http://bleedingedgepress.com/developing-ionic-edge/) por @keithdmoore94
 * [Full Stack Mobile App with Ionic Framework](http://amzn.com/B00QF1H380) por Hoc Phan
 
@@ -34,7 +34,7 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 
 
 * [JSday - Feira de Santana](http://www.jsday.com.br/) `06/06/2015` - *Ionic Framework: The excuses are over to start to create amazing apps* por @MatheusCAS
-* [Minicurso Ionic Framework em Salvador - BA](http://www.eventick.com.br/minicurso-ionic-framework) `04/07/2015 ` - *Minicurso de desenvolvimento de aplicativos móveis com Ionic* por @isaquedias 
+* [Minicurso Ionic Framework em Salvador - BA](http://www.eventick.com.br/minicurso-ionic-framework) `04/07/2015 ` - *Minicurso de desenvolvimento de aplicativos móveis com Ionic* por @isaquedias
 * [FISL - Porto Alegre](http://softwarelivre.org/fisl16) `8 a 11 de Julho de 2015` - *Oficina de Phonegap com Ionic* por @Loiane
 * [Workshop Ionic Framework e Firebase em São Paulo](https://kaumac.typeform.com/to/ovUnoW) `pré-cadastro`
 * [MobileConf 2015 - Rio de Janeiro](http://www.mobileconf.com.br/) - *Workshop de Phonegap com Ionic* por @Loiane
@@ -69,6 +69,7 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 * [Manabu Academy](https://play.google.com/store/apps/details?id=com.manabuacademy.manabuacademy) por @BrunoFDeveloper
 * [MobileConf 2015](https://github.com/thompsonemerson/app-mobile-conf) por @thompsonweb
 * [Hora da aula - unisantos](https://play.google.com/store/apps/details?id=br.com.nicholasess.horadaulaunisantos&hl=pt_BR) por @nicholasess
+* [Writing for IELTS and TOEFL](http://writingskills.leonardofaria.net) por @leozera
 
 ## Comunidade Ionic Brazil
 ![Ionic Brazil](ionicbrazil.png)

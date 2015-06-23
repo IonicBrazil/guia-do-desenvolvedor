@@ -86,5 +86,6 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 
 ## Meetups
 * [Bahia](http://www.meetup.com/ionicbahia)
+* [Pernambuco](http://www.meetup.com/Ionic-Pernambuco/)
 * [Rio de Janeiro](http://www.meetup.com/Ionic-Rio-de-Janeiro)
 * [São Paulo](http://www.meetup.com/Aplicativos-Hibridos-Meetup)

@@ -2,6 +2,8 @@
 Um ótimo guia para aprender mais sobre Ionic e estar por
 dentro das novidades.
 
+![Ionic Brazil](resources/logos/brazil/ionic-brazil-logo.png)
+
 Este guia é baseado no repositório [Ionic Adventures](http://github.com/juarezpaf/ionic-adventures) e tem como objetivo ser a fonte principal de informações relacionadas a conteúdo em Português para quem desenvolve utilizando o Ionic SDK e será mantido pela comunidade [Ionic Brazil](http://github.com/ionicbrazil).
 
 ## O que é o Ionic SDK?

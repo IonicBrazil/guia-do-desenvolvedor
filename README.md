@@ -78,7 +78,7 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 * [Writing for IELTS and TOEFL](http://writingskills.leonardofaria.net) por @leozera
 
 ## Comunidade Ionic Brazil
-![Ionic Brazil](ionicbrazil.png) [![Ionic Pernambuco](http://i.imgur.com/T1K7ttb.png)](http://www.meetup.com/Ionic-Pernambuco/)
+![Ionic Brazil](resources/logos/brazil/ionic-brazil-icon-small.png) [![Ionic Pernambuco](resources/logos/pernambuco/ionic-pernambuco-icon-small.png)](http://www.meetup.com/Ionic-Pernambuco/)
 
 * [Facebook](https://www.facebook.com/groups/1558333777738228)
 * [Twitter](http://twitter.com/ionicbrazil)

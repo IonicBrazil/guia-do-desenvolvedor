@@ -80,7 +80,7 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 * [Writing for IELTS and TOEFL](http://writingskills.leonardofaria.net) por @leozera
 
 ## Comunidade Ionic Brazil
-![Ionic Brazil](resources/logos/brazil/ionic-brazil-icon-small.png) [![Ionic Pernambuco](resources/logos/pernambuco/ionic-pernambuco-icon-small.png)](http://www.meetup.com/Ionic-Pernambuco/) [![Ionic Mato Grosso](resources/logos/matogrosso/ionic-mt-icon-small.png)](http://www.meetup.com/Ionic-Mato-Grosso) [![Ionic Alagoas](resources/logos/alagoas/ionic-alagoas-icon-small.png)](http://www.meetup.com/Ionic-Alagoas)
+![Ionic Brazil](resources/logos/brazil/ionic-brazil-icon-small.png) [![Ionic Pernambuco](resources/logos/pernambuco/ionic-pernambuco-icon-small.png)](http://www.meetup.com/Ionic-Pernambuco/) [![Ionic Mato Grosso](resources/logos/matogrosso/ionic-mt-icon-small.png)](http://www.meetup.com/Ionic-Mato-Grosso) [![Ionic Alagoas](resources/logos/alagoas/ionic-alagoas-icon-small.png)](http://www.meetup.com/Ionic-Alagoas) [![Ionic Bahia](resources/logos/bahia/ionic-bahia-icon-small.png)](http://www.meetup.com/ionicbahia) [![Ionic Rio de Janeiro](resources/logos/riodejaneiro/ionic-riodejaneiro-icon-small.png)](http://www.meetup.com/Ionic-Rio-de-Janeiro) [![Ionic Rio Grande do Sul](resources/logos/riograndedosul/ionic-riograndedosul-icon-small.png)](http://www.meetup.com/Ionic-Rio-Grande-do-Sul) [![Ionic Santa Catarina](resources/logos/santacatarina/ionic-santacatarina-icon-small.png)](http://www.meetup.com/Ionic-Santa-Catarina)
 
 * [Facebook](https://www.facebook.com/groups/1558333777738228)
 * [Twitter](http://twitter.com/ionicbrazil)
@@ -89,6 +89,8 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 ## Meetups
 * [Alagoas](http://www.meetup.com/Ionic-Alagoas)
 * [Bahia](http://www.meetup.com/ionicbahia)
-* [Pernambuco](http://www.meetup.com/Ionic-Pernambuco/)
+* [Pernambuco](http://www.meetup.com/Ionic-Pernambuco)
 * [Rio de Janeiro](http://www.meetup.com/Ionic-Rio-de-Janeiro)
-* [São Paulo](http://www.meetup.com/Aplicativos-Hibridos-Meetup)
+* [Rio Grande do Sul](http://www.meetup.com/Ionic-Rio-Grande-do-Sul)
+* [Santa Catarina](http://www.meetup.com/Ionic-Santa-Catarina)
+* [São Paulo](http://www.meetup.com/IonicSaoPaulo)

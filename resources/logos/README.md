@@ -11,7 +11,7 @@ A base do ícone do Meetup é o próprio logo do Ionic (você pode encontrá-la 
 
 ## Logo
 
-O Logo completo se constitui da seguinte forma: todos os elementos centralizados na página, com o ícone (descrito anteriormente) com 352x352 pixels, e a o texto "ionic<meetup>", em 260pt, usando a [fonte Avant Garde](https://www.myfonts.com/fonts/itc/avant-garde-gothic/). Sendo "ionic" na variação "Extra Light" e o nome do meetup na variação "Book" da Avant Garde. Há um espaçamento de 82 pixels entre o texto e o ícone.
+O Logo completo se constitui da seguinte forma: todos os elementos centralizados na página, com o ícone (descrito anteriormente) com 350x350 pixels, e a o texto "ionic<meetup>", em 248pt ou , usando a [fonte Avant Garde](https://www.myfonts.com/fonts/itc/avant-garde-gothic/). Sendo "ionic" na variação "Extra Light" e o nome do meetup na variação "Book" da Avant Garde. Há um espaçamento de 82 pixels entre o texto e o ícone.
 
 Sob nenhuma hipótese nenhum caractere do texto no logo deve estar em maíusculo, ou deve haver espaços entre as palavras do logo.
 

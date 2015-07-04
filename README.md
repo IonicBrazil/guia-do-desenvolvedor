@@ -1,4 +1,4 @@
-![Ionic Brazil](resources/logos/brazil/ionic-brazil-logo.png)
+![Ionic Brazil](resources/logos/_brazil/ionic-brazil-logo.png)
 
 # Guia do Desenvolvedor Ionic
 Um ótimo guia para aprender mais sobre Ionic e estar por

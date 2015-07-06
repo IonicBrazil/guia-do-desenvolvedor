@@ -102,7 +102,7 @@ Estado                  | Meetup Link                               | Organizado
 <img src="resources/bandeiras/mato-grosso.png" width=16/> **Mato Grosso** | [meetup.com/Ionic-Mato-Grosso][mMT] | @alvinhuuu
 <img src="resources/bandeiras/pernambuco.png" width=16/> **Pernambuco** | [meetup.com/Ionic-Pernambuco][mPE]  | @joselitojunior1
 <img src="resources/bandeiras/rio-de-janeiro.png" width=16/> **Rio de Janeiro** | [meetup.com/Ionic-Rio-de-Janeiro][mRJ]  | @jeffersonsouza @vasconcelloslf
-<img src="resources/bandeiras/rio-grande-do-sul.png" width=16/> **Rio Grande do Sul** | [meetup.com/Ionic-Rio-Grande-do-Sul][mRS] | @silvamarcel
+<img src="resources/bandeiras/rio-grande-do-sul.png" width=16/> **Rio Grande do Sul** | [meetup.com/Ionic-Rio-Grande-do-Sul][mRS] | @silvamarcel @arthuralves
 <img src="resources/bandeiras/santa-catarina.png" width=16/> **Santa Catarina**  | [meetup.com/Ionic-Santa-Catarina][mSC]  | @rgazeredo
 <img src="resources/bandeiras/sao-paulo.png" width=16/> **São Paulo**  | [meetup.com/IonicSaoPaulo][mSP]  | @felquis @lucasbastianik
 

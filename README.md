@@ -82,7 +82,7 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 ## Comunidade Ionic Brazil
 ![Ionic Brazil](resources/logos/_brazil/ionic-brazil-icon-small.png)
 [![Ionic Alagoas](resources/logos/alagoas/ionic-alagoas-icon-small.png)](http://www.meetup.com/Ionic-Alagoas)
-[![Ionic Bahia](resources/logos/bahia/ionic-bahia-icon-small.png)](http://www.meetup.com/ionicbahia)
+[![Ionic Bahia](resources/logos/bahia/ionic-bahia-icon-small.png)](http://www.meetup.com/Ionic-Bahia)
 [![Ionic Mato Grosso](resources/logos/matogrosso/ionic-matogrosso-icon-small.png)](http://www.meetup.com/Ionic-Mato-Grosso)
 [![Ionic Pernambuco](resources/logos/pernambuco/ionic-pernambuco-icon-small.png)](http://www.meetup.com/Ionic-Pernambuco/)
 [![Ionic Rio de Janeiro](resources/logos/riodejaneiro/ionic-riodejaneiro-icon-small.png)](http://www.meetup.com/Ionic-Rio-de-Janeiro)
@@ -98,7 +98,7 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 Estado                  | Meetup Link                               | Organizadores
 ---                     | ---                                       | ---
 <img src="resources/bandeiras/alagoas.png" width=16/> **Alagoas** | [meetup.com/Ionic-Alagoas][mAL] | @juarezpaf
-<img src="resources/bandeiras/bahia.png" width=16/> **Bahia** | [meetup.com/ionicbahia][mBH]  | @isaquediasm
+<img src="resources/bandeiras/bahia.png" width=16/> **Bahia** | [meetup.com/Ionic-Bahia][mBH]  | @isaquediasm
 <img src="resources/bandeiras/mato-grosso.png" width=16/> **Mato Grosso** | [meetup.com/Ionic-Mato-Grosso][mMT] | @alvinhuuu
 <img src="resources/bandeiras/pernambuco.png" width=16/> **Pernambuco** | [meetup.com/Ionic-Pernambuco][mPE]  | @joselitojunior1
 <img src="resources/bandeiras/rio-de-janeiro.png" width=16/> **Rio de Janeiro** | [meetup.com/Ionic-Rio-de-Janeiro][mRJ]  | @jeffersonsouza @vasconcelloslf
@@ -107,7 +107,7 @@ Estado                  | Meetup Link                               | Organizado
 <img src="resources/bandeiras/sao-paulo.png" width=16/> **São Paulo**  | [meetup.com/IonicSaoPaulo][mSP]  | @felquis @lucasbastianik
 
 [mAL]: http://meetup.com/Ionic-Alagoas
-[mBH]: http://meetup.com/ionicbahia
+[mBH]: http://meetup.com/Ionic-Bahia
 [mMT]: http://meetup.com/Ionic-Mato-Grosso
 [mPE]: http://meetup.com/Ionic-Pernambuco
 [mRJ]: http://meetup.com/Ionic-Rio-de-Janeiro

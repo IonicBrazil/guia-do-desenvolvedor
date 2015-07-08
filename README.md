@@ -1,4 +1,4 @@
-![Ionic Brazil](resources/logos/brazil/ionic-brazil-logo.png)
+![Ionic Brazil](resources/logos/_brazil/ionic-brazil-logo.png)
 
 # Guia do Desenvolvedor Ionic
 Um ótimo guia para aprender mais sobre Ionic e estar por
@@ -24,6 +24,7 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 * [Aplicativos mobile com o AngularJS e Ionic](http://frontinbrazil.com.br/aplicativos-mobile-com-o-angularjs-e-ionic/) por @JLCarv
 * [Criando aplicativo com Ionic Framework](http://nicholasess.com.br/desenvolvimento/criando-aplicativo-com-ionic-framework-serie/) por @nicholasess
 * [Apps Híbridas com Cordova e Ionic #1](http://luisvasconcellos.com/2015/04/06/apps-hibridas-com-cordova-e-ionic.html) por @vasconcelloslf
+* [O erro dos Apps criados com Ionic](https://medium.com/@LithiumBr/o-erro-dos-apps-criados-com-ionic-6797c1216d15?source=tw-992152d591ea-1436294034569) por @raphaelpor
 
 ## Livros
 
@@ -81,14 +82,37 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 * [Writing for IELTS and TOEFL](http://writingskills.leonardofaria.net) por @leozera
 
 ## Comunidade Ionic Brazil
-![Ionic Brazil](resources/logos/brazil/ionic-brazil-icon-small.png) [![Ionic Pernambuco](resources/logos/pernambuco/ionic-pernambuco-icon-small.png)](http://www.meetup.com/Ionic-Pernambuco/)
+![Ionic Brazil](resources/logos/_brazil/ionic-brazil-icon-small.png)
+[![Ionic Alagoas](resources/logos/alagoas/ionic-alagoas-icon-small.png)](http://www.meetup.com/Ionic-Alagoas)
+[![Ionic Bahia](resources/logos/bahia/ionic-bahia-icon-small.png)](http://www.meetup.com/Ionic-Bahia)
+[![Ionic Mato Grosso](resources/logos/matogrosso/ionic-matogrosso-icon-small.png)](http://www.meetup.com/Ionic-Mato-Grosso)
+[![Ionic Pernambuco](resources/logos/pernambuco/ionic-pernambuco-icon-small.png)](http://www.meetup.com/Ionic-Pernambuco/)
+[![Ionic Rio de Janeiro](resources/logos/riodejaneiro/ionic-riodejaneiro-icon-small.png)](http://www.meetup.com/Ionic-Rio-de-Janeiro)
+[![Ionic Rio Grande do Sul](resources/logos/riograndedosul/ionic-riograndedosul-icon-small.png)](http://www.meetup.com/Ionic-Rio-Grande-do-Sul)
+[![Ionic Santa Catarina](resources/logos/santacatarina/ionic-santacatarina-icon-small.png)](http://www.meetup.com/Ionic-Santa-Catarina)
+[![Ionic São Paulo](resources/logos/saopaulo/ionic-saopaulo-icon-small.png)](http://www.meetup.com/IonicSaoPaulo)
 
 * [Facebook](https://www.facebook.com/groups/1558333777738228)
 * [Twitter](http://twitter.com/ionicbrazil)
 * [Slack](http://ionicbrazil.herokuapp.com)
 
 ## Meetups
-* [Bahia](http://www.meetup.com/ionicbahia)
-* [Pernambuco](http://www.meetup.com/Ionic-Pernambuco/)
-* [Rio de Janeiro](http://www.meetup.com/Ionic-Rio-de-Janeiro)
-* [São Paulo](http://www.meetup.com/Aplicativos-Hibridos-Meetup)
+Estado                  | Meetup Link                               | Organizadores
+---                     | ---                                       | ---
+<img src="resources/bandeiras/alagoas.png" width=16/> **Alagoas** | [meetup.com/Ionic-Alagoas][mAL] | @juarezpaf
+<img src="resources/bandeiras/bahia.png" width=16/> **Bahia** | [meetup.com/Ionic-Bahia][mBH]  | @isaquediasm
+<img src="resources/bandeiras/mato-grosso.png" width=16/> **Mato Grosso** | [meetup.com/Ionic-Mato-Grosso][mMT] | @alvinhuuu
+<img src="resources/bandeiras/pernambuco.png" width=16/> **Pernambuco** | [meetup.com/Ionic-Pernambuco][mPE]  | @joselitojunior1
+<img src="resources/bandeiras/rio-de-janeiro.png" width=16/> **Rio de Janeiro** | [meetup.com/Ionic-Rio-de-Janeiro][mRJ]  | @jeffersonsouza @vasconcelloslf
+<img src="resources/bandeiras/rio-grande-do-sul.png" width=16/> **Rio Grande do Sul** | [meetup.com/Ionic-Rio-Grande-do-Sul][mRS] | @silvamarcel @arthuralv3s
+<img src="resources/bandeiras/santa-catarina.png" width=16/> **Santa Catarina**  | [meetup.com/Ionic-Santa-Catarina][mSC]  | @rgazeredo
+<img src="resources/bandeiras/sao-paulo.png" width=16/> **São Paulo**  | [meetup.com/IonicSaoPaulo][mSP]  | @felquis @lucasbastianik
+
+[mAL]: http://meetup.com/Ionic-Alagoas
+[mBH]: http://meetup.com/Ionic-Bahia
+[mMT]: http://meetup.com/Ionic-Mato-Grosso
+[mPE]: http://meetup.com/Ionic-Pernambuco
+[mRJ]: http://meetup.com/Ionic-Rio-de-Janeiro
+[mRS]: http://meetup.com/Ionic-Rio-Grande-do-Sul
+[mSC]: http://meetup.com/Ionic-Santa-Catarina
+[mSP]: http://meetup.com/IonicSaoPaulo

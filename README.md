@@ -16,6 +16,7 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 * [Aplicativos Híbridos com Ionic. Você também pode começar a desenvolver agora!](http://www.tiagoporto.com/aplicativos-hibridos-com-ionic-voce-tambem-pode-comecar-a-desenvolver-agora) por @tiagoporto
 * [Ionic Rocks!](https://speakerdeck.com/vitormalencar/ionic-rocks) por @vitormalencar
 * [Construindo Aplicativos Híbridos com Ionic Framework](http://alvarowolfx.github.io/ionic-present/#/) por @alvinhuuu
+* [Ionic Framework e sua Linda Performance](http://pt.slideshare.net/thompsonemerson/ionic-frameworks-e-sua-linda-performance-mobile-conf-2015) por @thompsonweb
 
 ## Artigos
 
@@ -25,6 +26,7 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 * [Criando aplicativo com Ionic Framework](http://nicholasess.com.br/desenvolvimento/criando-aplicativo-com-ionic-framework-serie/) por @nicholasess
 * [Apps Híbridas com Cordova e Ionic #1](http://luisvasconcellos.com/2015/04/06/apps-hibridas-com-cordova-e-ionic.html) por @vasconcelloslf
 * [O erro dos Apps criados com Ionic](https://medium.com/@LithiumBr/o-erro-dos-apps-criados-com-ionic-6797c1216d15?source=tw-992152d591ea-1436294034569) por @raphaelpor
+* [Usando PushWoosh com Ionic Framework](http://pt.slideshare.net/thompsonemerson/usando-pushwoosh-com-ionic-framework) por @thompsonweb
 
 ## Livros
 

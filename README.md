@@ -84,7 +84,7 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 * [MobileConf 2015](https://github.com/thompsonemerson/app-mobile-conf) por @thompsonweb
 * [Hora da aula - unisantos](https://play.google.com/store/apps/details?id=br.com.nicholasess.horadaulaunisantos&hl=pt_BR) por @nicholasess
 * [Writing for IELTS and TOEFL](http://writingskills.leonardofaria.net) por @leozera
-* [AgendaKids](https://play.google.com/store/apps/developer?id=Agenda+Kids) por @vitormalencar
+* [AgendaKids](https://play.google.com/store/apps/details?id=com.agendakidsdigital.app) por @vitormalencar
 
 ## Comunidade Ionic Brazil
 ![Ionic Brazil](resources/logos/_brazil/ionic-brazil-icon-small.png)

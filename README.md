@@ -93,6 +93,7 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 [![Ionic Alagoas](resources/logos/alagoas/ionic-alagoas-icon-small.png)](http://www.meetup.com/Ionic-Alagoas)
 [![Ionic Bahia](resources/logos/bahia/ionic-bahia-icon-small.png)](http://www.meetup.com/Ionic-Bahia)
 [![Ionic Ceara](resources/logos/ceara/ionic-ceara-icon-small.png)](http://www.meetup.com/Ionic-Ceara)
+[![Ionic Maranhão](resources/logos/maranhao/ionic-maranhao-icon-small.png)](http://www.meetup.com/Ionic-Maranhao)
 [![Ionic Mato Grosso](resources/logos/matogrosso/ionic-matogrosso-icon-small.png)](http://www.meetup.com/Ionic-Mato-Grosso)
 [![Ionic Minas Gerais](resources/logos/minasgerais/ionic-minasgerais-icon-small.png)](http://www.meetup.com/Ionic-Minas-Gerais)
 [![Ionic Pernambuco](resources/logos/pernambuco/ionic-pernambuco-icon-small.png)](http://www.meetup.com/Ionic-Pernambuco/)
@@ -101,7 +102,6 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 [![Ionic Rio Grande do Sul](resources/logos/riograndedosul/ionic-riograndedosul-icon-small.png)](http://www.meetup.com/Ionic-Rio-Grande-do-Sul)
 [![Ionic Santa Catarina](resources/logos/santacatarina/ionic-santacatarina-icon-small.png)](http://www.meetup.com/Ionic-Santa-Catarina)
 [![Ionic São Paulo](resources/logos/saopaulo/ionic-saopaulo-icon-small.png)](http://www.meetup.com/IonicSaoPaulo)
-[![Ionic Maranhão](resources/logos/maranhao/ionic-maranhao-icon-small.png)](http://www.meetup.com/Ionic-Maranhao)
 
 * [Facebook](https://www.facebook.com/groups/1558333777738228)
 * [Twitter](http://twitter.com/ionicbrazil)
@@ -113,6 +113,7 @@ Estado                  | Meetup Link                               | Organizado
 <img src="resources/bandeiras/alagoas.png" width=16/> **Alagoas** | [meetup.com/Ionic-Alagoas][mAL] | @juarezpaf
 <img src="resources/bandeiras/bahia.png" width=16/> **Bahia** | [meetup.com/Ionic-Bahia][mBH]  | @isaquediasm
 <img src="resources/bandeiras/ceara.png" width=16/> **Ceará**  | [meetup.com/Ionic-Ceara][mCE]  | @vitormalencar
+<img src="resources/bandeiras/maranhao.png" width=16/> **Maranhão**  | [meetup.com/Ionic-Maranhao][mMA]  | @NandoKstroNet
 <img src="resources/bandeiras/mato-grosso.png" width=16/> **Mato Grosso** | [meetup.com/Ionic-Mato-Grosso][mMT] | @alvinhuuu
 <img src="resources/bandeiras/minas-gerais.png" width=16/> **Minas Gerais** | [meetup.com/Ionic-Minas-Gerais][mMG] | @ivosantiago
 <img src="resources/bandeiras/pernambuco.png" width=16/> **Pernambuco** | [meetup.com/Ionic-Pernambuco][mPE]  | @joselitojunior1
@@ -121,11 +122,11 @@ Estado                  | Meetup Link                               | Organizado
 <img src="resources/bandeiras/rio-grande-do-sul.png" width=16/> **Rio Grande do Sul** | [meetup.com/Ionic-Rio-Grande-do-Sul][mRS] | @silvamarcel @arthuralv3s
 <img src="resources/bandeiras/santa-catarina.png" width=16/> **Santa Catarina**  | [meetup.com/Ionic-Santa-Catarina][mSC]  | @rgazeredo
 <img src="resources/bandeiras/sao-paulo.png" width=16/> **São Paulo**  | [meetup.com/IonicSaoPaulo][mSP]  | @felquis @lucasbastianik
-<img src="resources/bandeiras/maranhao.png" width=16/> **Maranhão**  | [meetup.com/Ionic-Maranhao][mMA]  | @NandoKstroNet
 
 [mAL]: http://meetup.com/Ionic-Alagoas
 [mBH]: http://meetup.com/Ionic-Bahia
 [mCE]: http://www.meetup.com/Ionic-Ceara
+[mMA]: http://meetup.com/Ionic-Maranhao
 [mMT]: http://meetup.com/Ionic-Mato-Grosso
 [mMG]: http://meetup.com/Ionic-Minas-Gerais
 [mPE]: http://meetup.com/Ionic-Pernambuco
@@ -134,4 +135,4 @@ Estado                  | Meetup Link                               | Organizado
 [mRS]: http://meetup.com/Ionic-Rio-Grande-do-Sul
 [mSC]: http://meetup.com/Ionic-Santa-Catarina
 [mSP]: http://meetup.com/IonicSaoPaulo
-[mMA]: http://meetup.com/Ionic-Maranhao
+

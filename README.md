@@ -35,6 +35,7 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 * [Usando PushWoosh com Ionic Framework](http://pt.slideshare.net/thompsonemerson/usando-pushwoosh-com-ionic-framework) por @thompsonweb
 * [Super Apps Híbridas com Ionic](http://mabrasil.github.io/talks/2015/cocoaheads/) por @mabrasil
 * [Mini Curso Ionic](http://www.slideshare.net/loianeg/mini-curso-ionic-framework) por @loiane
+* [Offline Apps com Ionic e PouchDB](http://www.slideshare.net/alvarowolfx/offline-apps-using-ionic-framework-and-pouchdb) por @alvinhuuu
 
 ## Artigos
 
@@ -88,6 +89,7 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 * [Ionic + Parse.com Boilerplate](https://github.com/giorgiofellipe/ionic-angular-parse-boilerplate) por @giiorgio_
 * [Ionic + PushWoosh Notifications](https://github.com/TiagoSilvaPereira/ionic-pushwoosh) por @Tiago_Ferat
 * [Mobile Conf 2015](https://github.com/thompsonemerson/app-mobile-conf) por @thompsonweb
+* [Ionic + PouchDB = Botanika](https://github.com/alvarowolfx/botanika) por @alvinhuuu
 
 ## Showcases no Brasil
 

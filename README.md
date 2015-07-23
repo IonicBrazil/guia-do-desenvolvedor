@@ -133,7 +133,7 @@ Estado                  | Meetup Link                               | Organizado
 <img src="resources/bandeiras/bahia.png" width=16/> **Bahia** | [meetup.com/Ionic-Bahia][mBH]  | @isaquediasm @JaderGJ
 <img src="resources/bandeiras/ceara.png" width=16/> **Ceará**  | [meetup.com/Ionic-Ceara][mCE]  | @vitormalencar
 <img src="resources/bandeiras/maranhao.png" width=16/> **Maranhão**  | [meetup.com/Ionic-Maranhao][mMA]  | @NandoKstroNet
-<img src="resources/bandeiras/mato-grosso.png" width=16/> **Mato Grosso** | [meetup.com/Ionic-Mato-Grosso][mMT] | @alvinhuuu
+<img src="resources/bandeiras/mato-grosso.png" width=16/> **Mato Grosso** | [meetup.com/Ionic-Mato-Grosso][mMT] | @alvinhuuu @gpedro_
 <img src="resources/bandeiras/minas-gerais.png" width=16/> **Minas Gerais** | [meetup.com/Ionic-Minas-Gerais][mMG] | @ivosantiago
 <img src="resources/bandeiras/pernambuco.png" width=16/> **Pernambuco** | [meetup.com/Ionic-Pernambuco][mPE]  | @joselitojunior1
 <img src="resources/bandeiras/rio-de-janeiro.png" width=16/> **Rio de Janeiro** | [meetup.com/Ionic-Rio-de-Janeiro][mRJ]  | @jeffersonsouza @vasconcelloslf

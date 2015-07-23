@@ -31,7 +31,7 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 * [O erro dos Apps criados com Ionic](https://medium.com/@LithiumBr/o-erro-dos-apps-criados-com-ionic-6797c1216d15?source=tw-992152d591ea-1436294034569) por @raphaelpor
 
 ## Vídeos
-* [Ionic FrameWork (Login com Redes Sociais e FireBase) PT-BR](https://www.youtube.com/playlist?list=PLZM1UQ94Dm7O7YPc8SuZsfEFvxlLUroGC) por [Pedro Henrique](https://www.youtube.com/user/DjPedroHills1/about)
+* [Ionic FrameWork (Login com Redes Sociais e FireBase) PT-BR](https://www.youtube.com/playlist?list=PLZM1UQ94Dm7O7YPc8SuZsfEFvxlLUroGC) por Pedro Henrique
 
 ## Livros
 

@@ -6,6 +6,21 @@ dentro das novidades.
 
 Este guia é baseado no repositório [Ionic Adventures](http://github.com/juarezpaf/ionic-adventures) e tem como objetivo ser a fonte principal de informações relacionadas a conteúdo em Português para quem desenvolve utilizando o Ionic SDK e será mantido pela comunidade [Ionic Brazil](http://github.com/ionicbrazil).
 
+## Tópicos
+
+  1. [O que é o Ionic SDK?](#o-que-é-o-ionic-sdk)
+  2. [Apresentações](#apresentações)
+  3. [Artigos](#artigos)
+  4. [Vídeos](#vídeos)
+  5. [Livros](#livros)
+  6. [Eventos, Cursos e Workshops](#eventos-cursos-e-workshops)
+  7. [Ferramentas](#ferramentas)
+  8. [Outros Serviços](#outros-serviços)
+  9. [Open Source](#open-source)
+  10. [Showcases no Brasil](#showcases-no-brasil)
+  11. [Comunidade Ionic Brazil](#comunidade-ionic-brazil)
+  12. [Meetups](#meetups)
+
 ## O que é o Ionic SDK?
 O Ionic SDK é um projeto Open Source gratuito usado no desenvolvimento de aplicativos híbridos para as plataformas Android 4.4+ e iOS 6+ com suporte parcial ao Windows Phone. Ionic SDK utiliza os recursos do HTML, CSS, Javascript e AngularJS, que possui o objetivo de deixar a experiência do usuário fluída e diminuir o tempo de desenvolvimento, e tem ganho notoriedade também pelo conjunto de ferramentas disponibilizados como Ionic View, Ionic Push, entre outras.
 

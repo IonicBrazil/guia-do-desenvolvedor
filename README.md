@@ -124,7 +124,7 @@ Estado                  | Meetup Link                               | Organizado
 <img src="resources/bandeiras/rio-de-janeiro.png" width=16/> **Rio de Janeiro** | [meetup.com/Ionic-Rio-de-Janeiro][mRJ]  | @jeffersonsouza @vasconcelloslf
 <img src="resources/bandeiras/rio-grande-do-norte.png" width=16/> **Rio Grande do Norte** | [meetup.com/Ionic-Rio-Grande-do-Norte][mRN]  | @andypcastro
 <img src="resources/bandeiras/rio-grande-do-sul.png" width=16/> **Rio Grande do Sul** | [meetup.com/Ionic-Rio-Grande-do-Sul][mRS] | @silvamarcel @arthuralv3s
-<img src="resources/bandeiras/santa-catarina.png" width=16/> **Santa Catarina**  | [meetup.com/Ionic-Santa-Catarina][mSC]  | @rgazeredo
+<img src="resources/bandeiras/santa-catarina.png" width=16/> **Santa Catarina**  | [meetup.com/Ionic-Santa-Catarina][mSC]  | @rgazeredo @giiorgio_
 <img src="resources/bandeiras/sao-paulo.png" width=16/> **São Paulo**  | [meetup.com/IonicSaoPaulo][mSP]  | @felquis @lucasbastianik
 
 [mAL]: http://meetup.com/Ionic-Alagoas

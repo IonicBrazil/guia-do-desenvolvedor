@@ -36,6 +36,7 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 * [Super Apps Híbridas com Ionic](http://mabrasil.github.io/talks/2015/cocoaheads/) por @mabrasil
 * [Mini Curso Ionic](http://www.slideshare.net/loianeg/mini-curso-ionic-framework) por @loiane
 * [Offline Apps com Ionic e PouchDB](http://www.slideshare.net/alvarowolfx/offline-apps-using-ionic-framework-and-pouchdb) por @alvinhuuu
+* [Entendendo Ionic Framework](http://arthuralves.github.io/entendendoionic) por @arthuralv3s
 
 ## Artigos
 

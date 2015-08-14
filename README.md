@@ -47,7 +47,7 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 * [Apps Híbridas com Cordova e Ionic #1](http://luisvasconcellos.com/2015/04/06/apps-hibridas-com-cordova-e-ionic.html) por @vasconcelloslf
 * [O erro dos Apps criados com Ionic](https://medium.com/@LithiumBr/o-erro-dos-apps-criados-com-ionic-6797c1216d15?source=tw-992152d591ea-1436294034569) por @raphaelpor
 * [4 Dicas para trabalhar com o Ionic Framework](http://frontinbrazil.com.br/4-dicas-ionic-framework/) por @JLCarv
-
+* [Melhores Temas com o Ionic Framework](http://www.gajotres.net/best-looking-ionic-framework-themes/) por @NetoDevel
 ## Vídeos
 * [Ionic FrameWork (Login com Redes Sociais e FireBase) PT-BR](https://www.youtube.com/playlist?list=PLZM1UQ94Dm7O7YPc8SuZsfEFvxlLUroGC) por Pedro Henrique
 * [Introdução ao Ionic](https://www.youtube.com/playlist?list=PLalnMrJS3xs02-QtOxLj294DMXG6y-QMh) por @raphaelpor

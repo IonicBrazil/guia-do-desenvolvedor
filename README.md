@@ -83,7 +83,7 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 
 ## Outros Serviços
 * [Ionic Jobs](http://jobs.ionic.io/)
-* [Ionic Market](http://market.ionic.io/) (em breve)
+* [Ionic Market](http://market.ionic.io/)
 
 ## Open Source
 

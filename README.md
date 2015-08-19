@@ -76,6 +76,7 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 
 * [Ionic Creator](https://creator.ionic.io/)
 * [Ionic Playground](http://play.ionic.io/)
+* [Ionic Lab](http://lab.ionic.io/) ([mais informações](http://blog.ionic.io/announcing-ionic-lab-mix-it-up-with-our-new-gui-tool/))
 * [Ionic View](http://view.ionic.io/)
 * [Ionic Push](https://apps.ionic.io/landing/push)
 * [Ionic Deploy](https://apps.ionic.io/signup) ([mais informações](http://blog.ionic.io/announcing-ionic-deploy-alpha-update-your-app-without-waiting/))
@@ -83,7 +84,7 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 
 ## Outros Serviços
 * [Ionic Jobs](http://jobs.ionic.io/)
-* [Ionic Market](http://market.ionic.io/)
+* [Ionic Market](http://market.ionic.io/) (em breve)
 
 ## Open Source
 

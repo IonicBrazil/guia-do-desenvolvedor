@@ -40,6 +40,12 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 
 ## Artigos
 
+### Angular
+
+* [AngularJS Promises - O guia definitivo](http://nomadev.com.br/angularjs-promises-promessas-o-guia-definitivo/)
+
+### Ionic
+
 * :zap: [O que eu preciso saber para começar com Ionic Framework](http://tutsmais.com.br/blog/ionicframework/o-que-eu-preciso-saber-para-comecar-com-ionic-framework) por @felquis
 * [Introdução ao Ionic Framework](http://tableless.com.br/introducao-ao-ionic-framework/) por @grillorafael
 * [Aplicativos mobile com o AngularJS e Ionic](http://frontinbrazil.com.br/aplicativos-mobile-com-o-angularjs-e-ionic/) por @JLCarv

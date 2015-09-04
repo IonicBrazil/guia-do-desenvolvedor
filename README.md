@@ -104,6 +104,7 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 
 ## Showcases no Brasil
 
+* [Teslo ToDo](https://play.google.com/store/apps/details?id=br.com.teslo.teslo_todo) por @mateusknob
 * [Mãe guru](http://maeguru.com.br/) por @fluid27
 * [Vivo open Air](https://itunes.apple.com/us/app/vivo-open-air/id940039537?mt=8) por @vasconcelloslf
 * [uPDV](https://play.google.com/store/apps/details?id=com.ionicframework.updv389492) por @MatheusCAS

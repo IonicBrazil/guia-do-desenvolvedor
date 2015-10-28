@@ -58,6 +58,7 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 * [Dicas para trabalhar com o Ionic – Persistence.js Migrations](http://frontinbrazil.com.br/persistencejs-migrations/) por @JLCarv
 * :rocket: [Aplicativos móveis híbridos: cadê a performance que estava aqui?](http://isaquedias.com.br/aplicativos-moveis-hibridos-cade-a-perfomance-que-estava-aqui/) por @isaquediasm
 * :zap: [Build rápido com Ionic Package](https://medium.com/@rafaelneri/build-r%C3%A1pido-com-ionic-package-6ce4525ddf1b#.hh9q6ka98) por @rafael-neri
+* [Tutorial Ionic – Meu primeiro app](http://tableless.com.br/tutorial-ionic-meu-primeiro-app/) por @grillorafael
 
 ## Vídeos
 * [Ionic FrameWork (Login com Redes Sociais e FireBase) PT-BR](https://www.youtube.com/playlist?list=PLZM1UQ94Dm7O7YPc8SuZsfEFvxlLUroGC) por Pedro Henrique

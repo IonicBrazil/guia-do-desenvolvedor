@@ -141,7 +141,7 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 
 * [Facebook](https://www.facebook.com/groups/1558333777738228)
 * [Twitter](http://twitter.com/ionicbrazil)
-* [Slack](http://ionicbrazil.herokuapp.com)
+* [Slack](http://ionicbrazilslack.herokuapp.com)
 
 ## Meetups
 Estado                  | Meetup Link                               | Organizadores

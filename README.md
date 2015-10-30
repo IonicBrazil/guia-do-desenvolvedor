@@ -70,6 +70,7 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 * [Ionic in Action](http://www.manning.com/wilken) por @gnomeontherun
 * [Developing an Ionic Edge](http://bleedingedgepress.com/developing-ionic-edge/) por @keithdmoore94
 * [Full Stack Mobile App with Ionic Framework](http://amzn.com/B00QF1H380) por Hoc Phan
+* [Learning Ionic - Build Hybrid Mobile Applications with HTML5](http://amzn.com/B010BEEIF2) por Arvind Ravulavaru
 
 ## Eventos, Cursos e Workshops
 

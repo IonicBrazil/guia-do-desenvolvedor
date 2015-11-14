@@ -150,7 +150,7 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 Estado                  | Meetup Link                               | Organizadores
 ---                     | ---                                       | ---
 <img src="resources/bandeiras/alagoas.png" width=16/> **Alagoas** | [meetup.com/Ionic-Alagoas][mAL] | @juarezpaf
-<img src="resources/bandeiras/bahia.png" width=16/> **Bahia** | [meetup.com/Ionic-Bahia][mBH]  | @isaquediasm @JaderGJ
+<img src="resources/bandeiras/bahia.png" width=16/> **Bahia** | [meetup.com/Ionic-Bahia][mBH]  | @isaquediasm @jjaderg
 <img src="resources/bandeiras/ceara.png" width=16/> **Ceará**  | [meetup.com/Ionic-Ceara][mCE]  | @vitormalencar
 <img src="resources/bandeiras/maranhao.png" width=16/> **Maranhão**  | [meetup.com/Ionic-Maranhao][mMA]  | @NandoKstroNet
 <img src="resources/bandeiras/mato-grosso.png" width=16/> **Mato Grosso** | [meetup.com/Ionic-Mato-Grosso][mMT] | @alvinhuuu @gpedro_

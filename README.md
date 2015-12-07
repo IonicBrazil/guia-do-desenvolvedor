@@ -162,7 +162,7 @@ Estado                  | Meetup Link                               | Organizado
 <img src="resources/bandeiras/santa-catarina.png" width=16/> **Santa Catarina**  | [meetup.com/Ionic-Santa-Catarina][mSC]  | @rgazeredo @giiorgio_
 <img src="resources/bandeiras/sao-paulo.png" width=16/> **São Paulo**  | [meetup.com/pt/Sao-Paulo-Ionic-Framework-Meetup][mSP]  | Livio Alves
 
-[mAL]: http://meetup.com/Ionic-Alagoas
+[mAL]: http://meetup.com/Ionic-AL
 [mBH]: http://meetup.com/Ionic-Bahia
 [mCE]: http://www.meetup.com/Ionic-Ceara
 [mMA]: http://meetup.com/Ionic-Maranhao

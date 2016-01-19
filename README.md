@@ -133,6 +133,7 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 [![Ionic Alagoas](resources/logos/alagoas/ionic-alagoas-icon-small.png)](http://www.meetup.com/Ionic-Alagoas)
 [![Ionic Bahia](resources/logos/bahia/ionic-bahia-icon-small.png)](http://www.meetup.com/Ionic-Bahia)
 [![Ionic Ceara](resources/logos/ceara/ionic-ceara-icon-small.png)](http://www.meetup.com/Ionic-Ceara)
+[![Ionic Goiás](resources/logos/goias/ionic-goias-icon-small.png)](http://www.meetup.com/Ionic-Goias)
 [![Ionic Maranhão](resources/logos/maranhao/ionic-maranhao-icon-small.png)](http://www.meetup.com/Ionic-Maranhao)
 [![Ionic Mato Grosso](resources/logos/matogrosso/ionic-matogrosso-icon-small.png)](http://www.meetup.com/Ionic-Mato-Grosso)
 [![Ionic Minas Gerais](resources/logos/minasgerais/ionic-minasgerais-icon-small.png)](http://www.meetup.com/Ionic-Minas-Gerais)
@@ -153,6 +154,7 @@ Estado                  | Meetup Link                               | Organizado
 <img src="resources/bandeiras/alagoas.png" width=16/> **Alagoas** | [meetup.com/Ionic-Alagoas][mAL] | @juarezpaf
 <img src="resources/bandeiras/bahia.png" width=16/> **Bahia** | [meetup.com/Ionic-Bahia][mBH]  | @isaquediasm @jjaderg
 <img src="resources/bandeiras/ceara.png" width=16/> **Ceará**  | [meetup.com/Ionic-Ceara][mCE]  | @vitormalencar
+<img src="resources/bandeiras/goias.png" width=16/> **Goiás**  | [meetup.com/Ionic-Goias][mGO]  | @MVillander
 <img src="resources/bandeiras/maranhao.png" width=16/> **Maranhão**  | [meetup.com/Ionic-Maranhao][mMA]  | @NandoKstroNet
 <img src="resources/bandeiras/mato-grosso.png" width=16/> **Mato Grosso** | [meetup.com/Ionic-Mato-Grosso][mMT] | @alvinhuuu @gpedro_
 <img src="resources/bandeiras/minas-gerais.png" width=16/> **Minas Gerais** | [meetup.com/Ionic-Minas-Gerais][mMG] | @ivosantiago
@@ -166,6 +168,7 @@ Estado                  | Meetup Link                               | Organizado
 [mAL]: http://meetup.com/Ionic-AL
 [mBH]: http://meetup.com/Ionic-Bahia
 [mCE]: http://www.meetup.com/Ionic-Ceara
+[mGO]: http://www.meetup.com/Ionic-Goias
 [mMA]: http://meetup.com/Ionic-Maranhao
 [mMT]: http://meetup.com/Ionic-Mato-Grosso
 [mMG]: http://meetup.com/Ionic-Minas-Gerais

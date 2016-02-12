@@ -76,13 +76,14 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 ## Eventos, Cursos e Workshops
 
 
-* [JSday - Feira de Santana](http://www.jsday.com.br/) `06/06/2015` - *Ionic Framework: The excuses are over to start to create amazing apps* por @MatheusCAS
+* [JSday - Feira de Santana](http://www.jsday.com.br/) `06/06/2015` - *Ionic Framework: The excuses are over to start to create amazing apps* por [@MatheusCAS](https://twitter.com/MatheusCAS?lang=en)
 * [Minicurso Ionic Framework em Salvador - BA](http://www.eventick.com.br/minicurso-ionic-framework) `04/07/2015 ` - *Minicurso de desenvolvimento de aplicativos móveis com Ionic* por @isaquedias
 * [FISL - Porto Alegre](http://softwarelivre.org/fisl16) `8 a 11 de Julho de 2015` - *Oficina de Phonegap com Ionic* por @Loiane
 * [Workshop Ionic Framework e Firebase em São Paulo](https://kaumac.typeform.com/to/ovUnoW) `pré-cadastro`
 * [MobileConf 2015 - Rio de Janeiro](http://www.mobileconf.com.br/) - *Workshop de Phonegap com Ionic* por @Loiane
 * [Front in Fortaleza](http://www.frontinfortaleza.com.br/) - *Ionic Rocks!* por @vitormalencar
 * [Lithium](http://lithium.net.br/cursos/ionic.html) - *Curso de Ionic Online em português* por @raphaelpor
+* [I encontro do GDG Feira de Santana](http://www.meetup.com/GDG-Feira-de-Santana/events/223926406/) - *Ionic: The Web SDK for Develop Mobile Apps* por [@MatheusCAS](https://twitter.com/MatheusCAS?lang=en)
 
 ## Ferramentas
 
@@ -113,7 +114,7 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 * [Teslo ToDo](https://play.google.com/store/apps/details?id=br.com.teslo.teslo_todo) por @mateusknob
 * [Mãe guru](http://maeguru.com.br/) por @fluid27
 * [Vivo open Air](https://itunes.apple.com/us/app/vivo-open-air/id940039537?mt=8) por @vasconcelloslf
-* [uPDV](https://play.google.com/store/apps/details?id=com.ionicframework.updv389492) por @MatheusCAS
+* [uPDV](https://play.google.com/store/apps/details?id=com.ionicframework.updv389492) por [@MatheusCAS](https://twitter.com/MatheusCAS?lang=en)
 * [Peladeiro App](https://play.google.com/store/apps/details?id=com.alexandreoliveira.peladeiroapp) por @alexandreetf
 * [Renda Fixa](http://rendafixa.rocks/) por @watermelon_tech
 * [99folks](http://99folks.com) por @crp_underground

@@ -22,7 +22,7 @@ Este guia é baseado no repositório [Ionic Adventures](http://github.com/juarez
   12. [Meetups](#meetups)
 
 ## O que é o Ionic SDK?
-O Ionic SDK é um projeto Open Source gratuito usado no desenvolvimento de aplicativos híbridos para as plataformas Android 4.4+ e iOS 6+ com suporte parcial ao Windows Phone. Ionic SDK utiliza os recursos do HTML, CSS, Javascript e AngularJS, que possui o objetivo de deixar a experiência do usuário fluída e diminuir o tempo de desenvolvimento, e tem ganho notoriedade também pelo conjunto de ferramentas disponibilizados como Ionic View, Ionic Push, entre outras.
+O Ionic SDK é um projeto Open Source gratuito usado no desenvolvimento de aplicativos híbridos para as plataformas Android 4.4+ e iOS 6+ com suporte parcial ao Windows Phone. Ionic SDK utiliza os recursos do HTML, CSS, Javascript e AngularJS, que possui o objetivo de deixar a experiência do usuário fluída e diminuir o tempo de desenvolvimento, e tem ganho notoriedade também pelo conjunto de ferramShentas disponibilizados como Ionic View, Ionic Push, entre outras.
 
 O Ionic também possui integração com o [Cordova](https://cordova.apache.org/) e o [ngCordova](http://ngcordova.com/) tornando capaz a utilização de recursos nativos dos dispositivos.
 
@@ -127,6 +127,7 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 * [AgendaKids](https://play.google.com/store/apps/details?id=com.agendakidsdigital.app) por @vitormalencar
 * [Clicou Partiu](https://play.google.com/store/apps/details?id=br.com.clicoupartiu) por @isaquediasm & @cjpatoilo
 * [Campeão Supermercados] (https://itunes.apple.com/us/app/campeao-+-voce!/id1018798047?mt=8) por @douglaszaltron & @FernandoFHS
+* [Today - Live Moments](https://play.google.com/store/apps/details?id=com.maqhin.today_&hl=en) por [Maqhin Soluções Tecnológicas](http://www.maqhin.com.br/site/index.php)
 
 ## Comunidade Ionic Brazil
 ![Ionic Brazil](resources/logos/_brazil/ionic-brazil-icon-small.png)

@@ -64,6 +64,7 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 ## Vídeos
 * [Ionic FrameWork (Login com Redes Sociais e FireBase) PT-BR](https://www.youtube.com/playlist?list=PLZM1UQ94Dm7O7YPc8SuZsfEFvxlLUroGC) por Pedro Henrique
 * [Introdução ao Ionic](https://www.youtube.com/playlist?list=PLalnMrJS3xs02-QtOxLj294DMXG6y-QMh) por @raphaelpor
+* [Curso Ionic](https://www.youtube.com/playlist?list=PLpP8rO2FXVXTJRTJ2j6rYLKQrQC1XgIra) por Anderson Floriano
 
 ## Livros
 

@@ -93,7 +93,7 @@ Url | Assunto | Autor | Nível | Indioma
 Url | Autor | Nível | Indioma
 --- | --- | --- | --- 
 [The Ionic Book](http://ionicframework.com/docs/guide/) | @ionicframework | :green_heart: - :red_circle: | Inglês
-[Ionic in Action](http://www.manning.com/wilken) | @gnomeontherun | :green_heart - :red_circle: | Inglés
+[Ionic in Action](http://www.manning.com/wilken) | @gnomeontherun | :green_heart: - :red_circle: | Inglés
 [Developing an Ionic Edge](http://bleedingedgepress.com/developing-ionic-edge/) | @keithdmoore94 | :green_heart: - :red_circle: | Inglês
 [Full Stack Mobile App with Ionic Framework](http://amzn.com/B00QF1H380)| Hoc Phan | :green_heart: - :red_circle: | Inglês
 [Learning Ionic - Build Hybrid Mobile Applications with HTML5](http://amzn.com/B010BEEIF2) | Arvind Ravulavaru | :green_heart: - :red_circle: | Inglês

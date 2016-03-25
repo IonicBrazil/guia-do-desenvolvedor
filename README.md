@@ -65,6 +65,7 @@ Url | Assunto | Autor | Nível
 [4 Dicas para trabalhar com o Ionic Framework](http://frontinbrazil.com.br/4-dicas-ionic-framework/) |:vibration_mode:| @JLCarv | :large_orange_diamond:
 [Dicas para trabalhar com o Ionic – PouchDB](http://frontinbrazil.com.br/pouchdb/) | :vibration_mode: | @JLCarv | :large_orange_diamond:
 [Dicas para trabalhar com o Ionic – Persistence.js Migrations](http://frontinbrazil.com.br/persistencejs-migrations/) |:vibration_mode:| @JLCarv | :red_circle:
+[Aprendendo angular do inicio passo a passo](http://blogdoscursos.com.br/aprendendo-angular/) |:a:| @blogDosConcursos | :green_heart: 
 :rocket: [Aplicativos móveis híbridos: cadê a performance que estava aqui?](http://isaquedias.com.br/aplicativos-moveis-hibridos-cade-a-perfomance-que-estava-aqui/) por @isaquediasm
 :zap: [Build rápido com Ionic Package](https://medium.com/@rafaelneri/build-r%C3%A1pido-com-ionic-package-6ce4525ddf1b#.hh9q6ka98) por @rafael-neri
 [Tutorial Ionic – Meu primeiro app](http://tableless.com.br/tutorial-ionic-meu-primeiro-app/) por @grillorafael

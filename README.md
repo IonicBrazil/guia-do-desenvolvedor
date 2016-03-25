@@ -34,16 +34,16 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 
 Url | Autor | Nível | Indioma 
 --- | --- | --- | --- 
-[Aplicativos Híbridos com Ionic. Você também pode começar a desenvolver agora!](http://www.tiagoporto.com/aplicativos-hibridos-com-ionic-voce-tambem-pode-comecar-a-desenvolver-agora) | por @tiagoporto | :green_heart: | Português
-[Ionic Rocks!](https://speakerdeck.com/vitormalencar/ionic-rocks) | por @vitormalencar | :green_heart: | Português
-[Construindo Aplicativos Híbridos com Ionic Framework](http://alvarowolfx.github.io/ionic-present/#/) | por @alvinhuuu | :green_heart: | Português
-[Ionic Framework e sua Linda Performance](http://pt.slideshare.net/thompsonemerson/ionic-frameworks-e-sua-linda-performance-mobile-conf-2015) | por @thompsonweb | :green_heart: | Português 
-[Usando PushWoosh com Ionic Framework](http://pt.slideshare.net/thompsonemerson/usando-pushwoosh-com-ionic-framework) | por @thompsonweb | :green_heart: 
-[Super Apps Híbridas com Ionic](http://mabrasil.github.io/talks/2015/cocoaheads/) por @mabrasil
-[Melhorando seu workflow Ionic](http://mabrasil.github.io/talks/2015/ionic-meetup) por @mabrasil
-[Mini Curso Ionic](http://www.slideshare.net/loianeg/mini-curso-ionic-framework) por @loiane
-[Offline Apps com Ionic e PouchDB](http://www.slideshare.net/alvarowolfx/offline-apps-using-ionic-framework-and-pouchdb) por @alvinhuuu
-[Entendendo Ionic Framework](http://arthuralves.github.io/entendendoionic) por @arthuralv3s
+[Aplicativos Híbridos com Ionic. Você também pode começar a desenvolver agora!](http://www.tiagoporto.com/aplicativos-hibridos-com-ionic-voce-tambem-pode-comecar-a-desenvolver-agora) | @tiagoporto | :green_heart: | Português
+[Ionic Rocks!](https://speakerdeck.com/vitormalencar/ionic-rocks) | @vitormalencar | :green_heart: | Português
+[Construindo Aplicativos Híbridos com Ionic Framework](http://alvarowolfx.github.io/ionic-present/#/) | @alvinhuuu | :green_heart: | Português
+[Ionic Framework e sua Linda Performance](http://pt.slideshare.net/thompsonemerson/ionic-frameworks-e-sua-linda-performance-mobile-conf-2015) | @thompsonweb | :green_heart: | Português 
+[Usando PushWoosh com Ionic Framework](http://pt.slideshare.net/thompsonemerson/usando-pushwoosh-com-ionic-framework) | @thompsonweb | :green_heart: 
+[Super Apps Híbridas com Ionic](http://mabrasil.github.io/talks/2015/cocoaheads/) | @mabrasil | :green_heart: | Português
+[Melhorando seu workflow Ionic](http://mabrasil.github.io/talks/2015/ionic-meetup) | @mabrasil | :green_heart: | Português 
+[Mini Curso Ionic](http://www.slideshare.net/loianeg/mini-curso-ionic-framework) | @loiane | :green_heart: | Português
+[Offline Apps com Ionic e PouchDB](http://www.slideshare.net/alvarowolfx/offline-apps-using-ionic-framework-and-pouchdb) | @alvinhuuu | :green_heart: | Inglês
+[Entendendo Ionic Framework](http://arthuralves.github.io/entendendoionic) | @arthuralv3s | :green_heart: | Português
 
 ## Artigos
 

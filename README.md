@@ -78,7 +78,7 @@ Url | Assunto | Autor | Nível
 - :vibration_mode:: Ionic
 
 Url | Assunto | Autor | Nível | Indioma
---- | --- | --- | ---
+--- | --- | --- | --- | ---
 [Ionic FrameWork (Login com Redes Sociais e FireBase) PT-BR](https://www.youtube.com/playlist?list=PLZM1UQ94Dm7O7YPc8SuZsfEFvxlLUroGC) | :vibration_mode: | Pedro Henrique | :large_orange_diamond: | Português
 [Introdução ao Ionic](https://www.youtube.com/playlist?list=PLalnMrJS3xs02-QtOxLj294DMXG6y-QMh)| :vibration_mode: | @raphaelpor | :green_heart: | Português
 [Curso Ionic](https://www.youtube.com/playlist?list=PLpP8rO2FXVXTJRTJ2j6rYLKQrQC1XgIra) | :vibration_mode: | Anderson Floriano | :green_heart: | Português
@@ -93,7 +93,7 @@ Url | Assunto | Autor | Nível | Indioma
 Url | Autor | Nível | Indioma
 --- | --- | --- | --- 
 [The Ionic Book](http://ionicframework.com/docs/guide/) | @ionicframework | :green_heart: - :red_circle: | Inglês
-[Ionic in Action](http://www.manning.com/wilken) | @gnomeontherun | :green_hen - :red_circle: | Inglés
+[Ionic in Action](http://www.manning.com/wilken) | @gnomeontherun | :green_heart - :red_circle: | Inglés
 [Developing an Ionic Edge](http://bleedingedgepress.com/developing-ionic-edge/) | @keithdmoore94 | :green_heart: - :red_circle: | Inglês
 [Full Stack Mobile App with Ionic Framework](http://amzn.com/B00QF1H380)| Hoc Phan | :green_heart: - :red_circle: | Inglês
 [Learning Ionic - Build Hybrid Mobile Applications with HTML5](http://amzn.com/B010BEEIF2) | Arvind Ravulavaru | :green_heart: - :red_circle: | Inglês

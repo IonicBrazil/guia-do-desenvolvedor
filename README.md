@@ -11,8 +11,8 @@ Este guia é baseado no repositório [Ionic Adventures](http://github.com/juarez
   1. [O que é o Ionic SDK?](#o-que-é-o-ionic-sdk)
   2. [Apresentações](#city_sunset-apresentações)
   3. [Artigos](#newspaper-artigos)
-  4. [Vídeos](#vídeos)
-  5. [Livros](#livros)
+  4. [Vídeos](#video_camera-vídeos)
+  5. [Livros](#books-livros)
   6. [Eventos, Cursos e Workshops](#eventos-cursos-e-workshops)
   7. [Ferramentas](#ferramentas)
   8. [Outros Serviços](#outros-serviços)
@@ -70,12 +70,20 @@ Url | Assunto | Autor | Nível
 :zap: [Build rápido com Ionic Package](https://medium.com/@rafaelneri/build-r%C3%A1pido-com-ionic-package-6ce4525ddf1b#.hh9q6ka98) | :vibration_mode: | @rafael-neri | :large_orange_diamond:
 [Tutorial Ionic – Meu primeiro app](http://tableless.com.br/tutorial-ionic-meu-primeiro-app/)|:vibration_mode:| @grillorafael  | :green_heart:
 
-## Vídeos
-* [Ionic FrameWork (Login com Redes Sociais e FireBase) PT-BR](https://www.youtube.com/playlist?list=PLZM1UQ94Dm7O7YPc8SuZsfEFvxlLUroGC) por Pedro Henrique
-* [Introdução ao Ionic](https://www.youtube.com/playlist?list=PLalnMrJS3xs02-QtOxLj294DMXG6y-QMh) por @raphaelpor
-* [Curso Ionic](https://www.youtube.com/playlist?list=PLpP8rO2FXVXTJRTJ2j6rYLKQrQC1XgIra) por Anderson Floriano
+## :video_camera: Vídeos
+- :green_heart:: Básico
+- :large_orange_diamond:: Intermediário
+- :red_circle:: Avançado
+- :a:: Angular
+- :vibration_mode:: Ionic
 
-## Livros
+Url | Autor | Nível | Indioma
+--- | --- | --- | ---
+[Ionic FrameWork (Login com Redes Sociais e FireBase) PT-BR](https://www.youtube.com/playlist?list=PLZM1UQ94Dm7O7YPc8SuZsfEFvxlLUroGC) | Pedro Henrique | :large_orange_diamond: | Português
+[Introdução ao Ionic](https://www.youtube.com/playlist?list=PLalnMrJS3xs02-QtOxLj294DMXG6y-QMh) | @raphaelpor | :green_heart: | Português
+[Curso Ionic](https://www.youtube.com/playlist?list=PLpP8rO2FXVXTJRTJ2j6rYLKQrQC1XgIra) | Anderson Floriano | :green_heart: | Português
+
+## :books: Livros
 
 * [The Ionic Book](http://ionicframework.com/docs/guide/) por @ionicframework
 * [Ionic in Action](http://www.manning.com/wilken) por @gnomeontherun

@@ -9,8 +9,8 @@ Este guia é baseado no repositório [Ionic Adventures](http://github.com/juarez
 ## Tópicos
 
   1. [O que é o Ionic SDK?](#o-que-é-o-ionic-sdk)
-  2. [Apresentações](#apresentações)
-  3. [Artigos](#artigos)
+  2. [Apresentações](#city_sunset-apresentações)
+  3. [Artigos](#newspaper-artigos)
   4. [Vídeos](#vídeos)
   5. [Livros](#livros)
   6. [Eventos, Cursos e Workshops](#eventos-cursos-e-workshops)

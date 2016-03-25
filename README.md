@@ -34,38 +34,40 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 
 Url | Autor | Nível | Indioma 
 --- | --- | --- | --- 
-[Aplicativos Híbridos com Ionic. Você também pode começar a desenvolver agora!](http://www.tiagoporto.com/aplicativos-hibridos-com-ionic-voce-tambem-pode-comecar-a-desenvolver-agora) | @tiagoporto | :green_heart: | Português
-[Ionic Rocks!](https://speakerdeck.com/vitormalencar/ionic-rocks) | @vitormalencar | :green_heart: | Português
-[Construindo Aplicativos Híbridos com Ionic Framework](http://alvarowolfx.github.io/ionic-present/#/) | @alvinhuuu | :green_heart: | Português
-[Ionic Framework e sua Linda Performance](http://pt.slideshare.net/thompsonemerson/ionic-frameworks-e-sua-linda-performance-mobile-conf-2015) | @thompsonweb | :green_heart: | Português 
-[Usando PushWoosh com Ionic Framework](http://pt.slideshare.net/thompsonemerson/usando-pushwoosh-com-ionic-framework) | @thompsonweb | :green_heart: 
-[Super Apps Híbridas com Ionic](http://mabrasil.github.io/talks/2015/cocoaheads/) | @mabrasil | :green_heart: | Português
-[Melhorando seu workflow Ionic](http://mabrasil.github.io/talks/2015/ionic-meetup) | @mabrasil | :green_heart: | Português 
-[Mini Curso Ionic](http://www.slideshare.net/loianeg/mini-curso-ionic-framework) | @loiane | :green_heart: | Português
-[Offline Apps com Ionic e PouchDB](http://www.slideshare.net/alvarowolfx/offline-apps-using-ionic-framework-and-pouchdb) | @alvinhuuu | :green_heart: | Inglês
-[Entendendo Ionic Framework](http://arthuralves.github.io/entendendoionic) | @arthuralv3s | :green_heart: | Português
+[Aplicativos Híbridos com Ionic. Você também pode começar a desenvolver agora!](http://www.tiagoporto.com/aplicativos-hibridos-com-ionic-voce-tambem-pode-comecar-a-desenvolver-agora) | @tiagoporto | :green_heart:| Português
+[Ionic Rocks!](https://speakerdeck.com/vitormalencar/ionic-rocks) | @vitormalencar | :green_heart:| Português
+[Construindo Aplicativos Híbridos com Ionic Framework](http://alvarowolfx.github.io/ionic-present/#/) | @alvinhuuu | :green_heart:| Português
+[Ionic Framework e sua Linda Performance](http://pt.slideshare.net/thompsonemerson/ionic-frameworks-e-sua-linda-performance-mobile-conf-2015) | @thompsonweb | :green_heart:| Português 
+[Usando PushWoosh com Ionic Framework](http://pt.slideshare.net/thompsonemerson/usando-pushwoosh-com-ionic-framework) | @thompsonweb | :green_heart:| Português
+[Super Apps Híbridas com Ionic](http://mabrasil.github.io/talks/2015/cocoaheads/) | @mabrasil | :green_heart:| Português
+[Melhorando seu workflow Ionic](http://mabrasil.github.io/talks/2015/ionic-meetup) | @mabrasil | :green_heart:| Português 
+[Mini Curso Ionic](http://www.slideshare.net/loianeg/mini-curso-ionic-framework) | @loiane | :green_heart:| Português
+[Offline Apps com Ionic e PouchDB](http://www.slideshare.net/alvarowolfx/offline-apps-using-ionic-framework-and-pouchdb) | @alvinhuuu | :green_heart:| Inglês
+[Entendendo Ionic Framework](http://arthuralves.github.io/entendendoionic) | @arthuralv3s | :green_heart:| Português
 
-## Artigos
+## :newspaper: Artigos
+- :green_heart:: Básico
+- :large_orange_diamond:: Intermediário
+- :red_circle:: Avançado
+- :a:: Angular
+- :vibration_mode:: Ionic
 
-### Angular
-
-* [AngularJS Promises - O guia definitivo](http://nomadev.com.br/angularjs-promises-promessas-o-guia-definitivo/)
-
-### Ionic
-
-* [Instalando ambiente para desenvolver com Ionic](http://fabiorogeriosj.com.br/desenvolvendo-aplicativos-mobile-ionic-post-1.html) por @fabiorogeriosj
-* :zap: [O que eu preciso saber para começar com Ionic Framework](http://tutsmais.com.br/blog/ionicframework/o-que-eu-preciso-saber-para-comecar-com-ionic-framework) por @felquis
-* [Introdução ao Ionic Framework](http://tableless.com.br/introducao-ao-ionic-framework/) por @grillorafael
-* [Aplicativos mobile com o AngularJS e Ionic](http://frontinbrazil.com.br/aplicativos-mobile-com-o-angularjs-e-ionic/) por @JLCarv
-* [Criando aplicativo com Ionic Framework](http://nicholasess.com.br/desenvolvimento/criando-aplicativo-com-ionic-framework-serie/) por @nicholasess
-* [Apps Híbridas com Cordova e Ionic #1](http://luisvasconcellos.com/2015/04/06/apps-hibridas-com-cordova-e-ionic.html) por @vasconcelloslf
-* [O erro dos Apps criados com Ionic](https://medium.com/@LithiumBr/o-erro-dos-apps-criados-com-ionic-6797c1216d15?source=tw-992152d591ea-1436294034569) por @raphaelpor
-* [4 Dicas para trabalhar com o Ionic Framework](http://frontinbrazil.com.br/4-dicas-ionic-framework/) por @JLCarv
-* [Dicas para trabalhar com o Ionic – PouchDB](http://frontinbrazil.com.br/pouchdb/) por @JLCarv
-* [Dicas para trabalhar com o Ionic – Persistence.js Migrations](http://frontinbrazil.com.br/persistencejs-migrations/) por @JLCarv
-* :rocket: [Aplicativos móveis híbridos: cadê a performance que estava aqui?](http://isaquedias.com.br/aplicativos-moveis-hibridos-cade-a-perfomance-que-estava-aqui/) por @isaquediasm
-* :zap: [Build rápido com Ionic Package](https://medium.com/@rafaelneri/build-r%C3%A1pido-com-ionic-package-6ce4525ddf1b#.hh9q6ka98) por @rafael-neri
-* [Tutorial Ionic – Meu primeiro app](http://tableless.com.br/tutorial-ionic-meu-primeiro-app/) por @grillorafael
+Url | Assunto | Autor | Nível 
+--- | --- | --- | ---
+[AngularJS Promises - O guia definitivo](http://nomadev.com.br/angularjs-promises-promessas-o-guia-definitivo/) | :a:| Nomadev | :large_orange_diamond:
+[Instalando ambiente para desenvolver com Ionic](http://fabiorogeriosj.com.br/desenvolvendo-aplicativos-mobile-ionic-post-1.html) por @fabiorogeriosj
+:zap: [O que eu preciso saber para começar com Ionic Framework](http://tutsmais.com.br/blog/ionicframework/o-que-eu-preciso-saber-para-comecar-com-ionic-framework) por @felquis
+[Introdução ao Ionic Framework](http://tableless.com.br/introducao-ao-ionic-framework/) por @grillorafael
+[Aplicativos mobile com o AngularJS e Ionic](http://frontinbrazil.com.br/aplicativos-mobile-com-o-angularjs-e-ionic/) por @JLCarv
+[Criando aplicativo com Ionic Framework](http://nicholasess.com.br/desenvolvimento/criando-aplicativo-com-ionic-framework-serie/) por @nicholasess
+[Apps Híbridas com Cordova e Ionic #1](http://luisvasconcellos.com/2015/04/06/apps-hibridas-com-cordova-e-ionic.html) por @vasconcelloslf
+[O erro dos Apps criados com Ionic](https://medium.com/@LithiumBr/o-erro-dos-apps-criados-com-ionic-6797c1216d15?source=tw-992152d591ea-1436294034569) por @raphaelpor
+[4 Dicas para trabalhar com o Ionic Framework](http://frontinbrazil.com.br/4-dicas-ionic-framework/) por @JLCarv
+[Dicas para trabalhar com o Ionic – PouchDB](http://frontinbrazil.com.br/pouchdb/) por @JLCarv
+[Dicas para trabalhar com o Ionic – Persistence.js Migrations](http://frontinbrazil.com.br/persistencejs-migrations/) por @JLCarv
+:rocket: [Aplicativos móveis híbridos: cadê a performance que estava aqui?](http://isaquedias.com.br/aplicativos-moveis-hibridos-cade-a-perfomance-que-estava-aqui/) por @isaquediasm
+:zap: [Build rápido com Ionic Package](https://medium.com/@rafaelneri/build-r%C3%A1pido-com-ionic-package-6ce4525ddf1b#.hh9q6ka98) por @rafael-neri
+[Tutorial Ionic – Meu primeiro app](http://tableless.com.br/tutorial-ionic-meu-primeiro-app/) por @grillorafael
 
 ## Vídeos
 * [Ionic FrameWork (Login com Redes Sociais e FireBase) PT-BR](https://www.youtube.com/playlist?list=PLZM1UQ94Dm7O7YPc8SuZsfEFvxlLUroGC) por Pedro Henrique

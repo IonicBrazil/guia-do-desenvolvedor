@@ -32,7 +32,7 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 
 ## :city_sunset: Apresentações
 
-Url | Autor | Nível | Indioma 
+Url | Autor | Nível | Idioma 
 --- | --- | --- | --- 
 [Aplicativos Híbridos com Ionic. Você também pode começar a desenvolver agora!](http://www.tiagoporto.com/aplicativos-hibridos-com-ionic-voce-tambem-pode-comecar-a-desenvolver-agora) | @tiagoporto | :green_heart:| Português
 [Ionic Rocks!](https://speakerdeck.com/vitormalencar/ionic-rocks) | @vitormalencar | :green_heart:| Português

@@ -92,6 +92,7 @@ Url | Assunto | Autor | Nível | Indioma
 
 Url | Autor | Nível | Indioma
 --- | --- | --- | --- 
+[#1 Ionic Framework - Essecial](http://fabiorogeriosj.com.br/ebook-ionic-framework-essecial.html) | @fabiorogeriosj | :green_heart: | Português
 [The Ionic Book](http://ionicframework.com/docs/guide/) | @ionicframework | :green_heart: - :red_circle: | Inglês
 [Ionic in Action](http://www.manning.com/wilken) | @gnomeontherun | :green_heart: - :red_circle: | Inglés
 [Developing an Ionic Edge](http://bleedingedgepress.com/developing-ionic-edge/) | @keithdmoore94 | :green_heart: - :red_circle: | Inglês

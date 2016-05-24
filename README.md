@@ -59,7 +59,6 @@ Url | Assunto | Autor | Nível
 :zap: [O que eu preciso saber para começar com Ionic Framework](http://tutsmais.com.br/blog/ionicframework/o-que-eu-preciso-saber-para-comecar-com-ionic-framework) |:vibration_mode:| @felquis | :green_heart:
 [Introdução ao Ionic Framework](http://tableless.com.br/introducao-ao-ionic-framework/) |:vibration_mode:| @grillorafael | :green_heart:
 [Aplicativos mobile com o AngularJS e Ionic](http://frontinbrazil.com.br/aplicativos-mobile-com-o-angularjs-e-ionic/) |:vibration_mode:| @JLCarv | :green_heart:
-[Criando aplicativo com Ionic Framework](http://nicholasess.com.br/desenvolvimento/criando-aplicativo-com-ionic-framework-serie/) |:vibration_mode:| @nicholasess | :green_heart:
 [Apps Híbridas com Cordova e Ionic #1](http://luisvasconcellos.com/2015/04/06/apps-hibridas-com-cordova-e-ionic.html) |:vibration_mode:| @vasconcelloslf | :green_heart: 
 [O erro dos Apps criados com Ionic](https://medium.com/@LithiumBr/o-erro-dos-apps-criados-com-ionic-6797c1216d15?source=tw-992152d591ea-1436294034569) | :vibration_mode:| @raphaelpor | :large_orange_diamond:
 [4 Dicas para trabalhar com o Ionic Framework](http://frontinbrazil.com.br/4-dicas-ionic-framework/) |:vibration_mode:| @JLCarv | :large_orange_diamond:

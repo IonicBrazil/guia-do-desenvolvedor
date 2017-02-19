@@ -134,6 +134,7 @@ Url | Autor | Nível | Indioma
 * [Ionic + PushWoosh Notifications](https://github.com/TiagoSilvaPereira/ionic-pushwoosh) por @Tiago_Ferat
 * [Mobile Conf 2015](https://github.com/thompsonemerson/app-mobile-conf) por @thompsonweb
 * [Ionic + PouchDB = Botanika](https://github.com/alvarowolfx/botanika) por @alvinhuuu
+* [Ionic ES5 Starter Kit: Projeto base seguindo Style Guide do Jhon Papa](https://github.com/wgbn/ionic-es5-starter-kit) por @wgbn
 
 ## Showcases no Brasil
 

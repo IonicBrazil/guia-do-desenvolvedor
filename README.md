@@ -32,15 +32,15 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 
 ## :city_sunset: Apresentações
 
-Url | Autor | Nível | Idioma 
---- | --- | --- | --- 
+Url | Autor | Nível | Idioma
+--- | --- | --- | ---
 [Aplicativos Híbridos com Ionic. Você também pode começar a desenvolver agora!](http://www.tiagoporto.com/aplicativos-hibridos-com-ionic-voce-tambem-pode-comecar-a-desenvolver-agora) | @tiagoporto | :green_heart:| Português
 [Ionic Rocks!](https://speakerdeck.com/vitormalencar/ionic-rocks) | @vitormalencar | :green_heart:| Português
 [Construindo Aplicativos Híbridos com Ionic Framework](http://alvarowolfx.github.io/ionic-present/#/) | @alvinhuuu | :green_heart:| Português
-[Ionic Framework e sua Linda Performance](http://pt.slideshare.net/thompsonemerson/ionic-frameworks-e-sua-linda-performance-mobile-conf-2015) | @thompsonweb | :green_heart:| Português 
+[Ionic Framework e sua Linda Performance](http://pt.slideshare.net/thompsonemerson/ionic-frameworks-e-sua-linda-performance-mobile-conf-2015) | @thompsonweb | :green_heart:| Português
 [Usando PushWoosh com Ionic Framework](http://pt.slideshare.net/thompsonemerson/usando-pushwoosh-com-ionic-framework) | @thompsonweb | :green_heart:| Português
 [Super Apps Híbridas com Ionic](http://mabrasil.github.io/talks/2015/cocoaheads/) | @mabrasil | :green_heart:| Português
-[Melhorando seu workflow Ionic](http://mabrasil.github.io/talks/2015/ionic-meetup) | @mabrasil | :green_heart:| Português 
+[Melhorando seu workflow Ionic](http://mabrasil.github.io/talks/2015/ionic-meetup) | @mabrasil | :green_heart:| Português
 [Mini Curso Ionic](http://www.slideshare.net/loianeg/mini-curso-ionic-framework) | @loiane | :green_heart:| Português
 [Offline Apps com Ionic e PouchDB](http://www.slideshare.net/alvarowolfx/offline-apps-using-ionic-framework-and-pouchdb) | @alvinhuuu | :green_heart:| Inglês
 [Entendendo Ionic Framework](http://arthuralves.github.io/entendendoionic) | @arthuralv3s | :green_heart:| Português
@@ -52,19 +52,19 @@ Url | Autor | Nível | Idioma
 - :a:: Angular
 - :vibration_mode:: Ionic
 
-Url | Assunto | Autor | Nível 
+Url | Assunto | Autor | Nível
 --- | --- | --- | ---
 [AngularJS Promises - O guia definitivo](http://nomadev.com.br/angularjs-promises-promessas-o-guia-definitivo/) |:a:| Nomadev | :large_orange_diamond:
-[Instalando ambiente para desenvolver com Ionic](http://fabiorogeriosj.com.br/desenvolvendo-aplicativos-mobile-ionic-post-1.html) |:vibration_mode:| @fabiorogeriosj | :green_heart:
 :zap: [O que eu preciso saber para começar com Ionic Framework](http://tutsmais.com.br/blog/ionicframework/o-que-eu-preciso-saber-para-comecar-com-ionic-framework) |:vibration_mode:| @felquis | :green_heart:
 [Introdução ao Ionic Framework](http://tableless.com.br/introducao-ao-ionic-framework/) |:vibration_mode:| @grillorafael | :green_heart:
 [Aplicativos mobile com o AngularJS e Ionic](http://frontinbrazil.com.br/aplicativos-mobile-com-o-angularjs-e-ionic/) |:vibration_mode:| @JLCarv | :green_heart:
-[Apps Híbridas com Cordova e Ionic #1](http://luisvasconcellos.com/2015/04/06/apps-hibridas-com-cordova-e-ionic.html) |:vibration_mode:| @vasconcelloslf | :green_heart: 
+[Criando aplicativo com Ionic Framework](http://nicholasess.com.br/desenvolvimento/criando-aplicativo-com-ionic-framework-serie/) |:vibration_mode:| @nicholasess | :green_heart:
+[Apps Híbridas com Cordova e Ionic #1](http://luisvasconcellos.com/2015/04/06/apps-hibridas-com-cordova-e-ionic.html) |:vibration_mode:| @vasconcelloslf | :green_heart:
 [O erro dos Apps criados com Ionic](https://medium.com/@LithiumBr/o-erro-dos-apps-criados-com-ionic-6797c1216d15?source=tw-992152d591ea-1436294034569) | :vibration_mode:| @raphaelpor | :large_orange_diamond:
 [4 Dicas para trabalhar com o Ionic Framework](http://frontinbrazil.com.br/4-dicas-ionic-framework/) |:vibration_mode:| @JLCarv | :large_orange_diamond:
 [Dicas para trabalhar com o Ionic – PouchDB](http://frontinbrazil.com.br/pouchdb/) | :vibration_mode: | @JLCarv | :large_orange_diamond:
 [Dicas para trabalhar com o Ionic – Persistence.js Migrations](http://frontinbrazil.com.br/persistencejs-migrations/) |:vibration_mode:| @JLCarv | :red_circle:
-[Aprendendo angular do inicio passo a passo](http://blogdoscursos.com.br/aprendendo-angular/) |:a:| @blogDosConcursos | :green_heart: 
+[Aprendendo angular do inicio passo a passo](http://blogdoscursos.com.br/aprendendo-angular/) |:a:| @blogDosConcursos | :green_heart:
 :rocket: [Aplicativos móveis híbridos: cadê a performance que estava aqui?](http://isaquedias.com.br/aplicativos-moveis-hibridos-cade-a-perfomance-que-estava-aqui/) |:vibration_mode:| @isaquediasm | :large_orange_diamond:
 :zap: [Build rápido com Ionic Package](https://medium.com/@rafaelneri/build-r%C3%A1pido-com-ionic-package-6ce4525ddf1b#.hh9q6ka98) | :vibration_mode: | @rafael-neri | :large_orange_diamond:
 [Tutorial Ionic – Meu primeiro app](http://tableless.com.br/tutorial-ionic-meu-primeiro-app/)|:vibration_mode:| @grillorafael  | :green_heart:
@@ -90,8 +90,9 @@ Url | Assunto | Autor | Nível | Indioma
 - :red_circle:: Avançado
 
 Url | Autor | Nível | Indioma
---- | --- | --- | --- 
-[#1 Ionic Framework - Essencial](http://fabiorogeriosj.com.br/ebook-ionic-framework-essecial.html) | @fabiorogeriosj | :green_heart: | Português
+--- | --- | --- | ---
+[#1 Ionic Framework - Essencial](http://fabiorogeriosj.com.br/2016/05/02/Ebook-1-Ionic-Framework-Essencial/) | @fabiorogeriosj | :green_heart: | Português
+[#2 Ionic Framework - Customizando e criando componentes](http://fabiorogeriosj.com.br/2016/06/24/Ebook-2-Ionic-Framework-Customizando-e-criando-componentes/) | @fabiorogeriosj | :green_heart: | Português
 [The Ionic Book](http://ionicframework.com/docs/guide/) | @ionicframework | :green_heart: - :red_circle: | Inglês
 [Ionic in Action](http://www.manning.com/wilken) | @gnomeontherun | :green_heart: - :red_circle: | Inglés
 [Developing an Ionic Edge](http://bleedingedgepress.com/developing-ionic-edge/) | @keithdmoore94 | :green_heart: - :red_circle: | Inglês
@@ -182,7 +183,7 @@ Estado                  | Meetup Link                               | Organizado
 <img src="resources/bandeiras/alagoas.png" width=16/> **Alagoas** | [meetup.com/Ionic-Alagoas][mAL] | @juarezpaf
 <img src="resources/bandeiras/bahia.png" width=16/> **Bahia** | [meetup.com/Ionic-Bahia][mBH]  | @isaquediasm @jjaderg
 <img src="resources/bandeiras/ceara.png" width=16/> **Ceará**  | [meetup.com/Ionic-Ceara][mCE]  | @vitormalencar
-<img src="resources/bandeiras/goias.png" width=16/> **Goiás**  | [meetup.com/Ionic-Goias][mGO]  | @cezarpretto @MVillander @RenanCMorais 
+<img src="resources/bandeiras/goias.png" width=16/> **Goiás**  | [meetup.com/Ionic-Goias][mGO]  | @cezarpretto @MVillander @RenanCMorais
 <img src="resources/bandeiras/maranhao.png" width=16/> **Maranhão**  | [meetup.com/Ionic-Maranhao][mMA]  | @NandoKstroNet
 <img src="resources/bandeiras/mato-grosso.png" width=16/> **Mato Grosso** | [meetup.com/Ionic-Mato-Grosso][mMT] | @alvinhuuu @gpedro_
 <img src="resources/bandeiras/minas-gerais.png" width=16/> **Minas Gerais** | [meetup.com/Ionic-Minas-Gerais][mMG] | @ivosantiago

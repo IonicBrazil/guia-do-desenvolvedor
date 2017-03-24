@@ -123,7 +123,7 @@ Url | Autor | Nível | Indioma
 
 ## Outros Serviços
 * [Ionic Jobs](http://jobs.ionic.io/)
-* [Ionic Market](http://market.ionic.io/)
+* [Ionic Market](http://market.ionic.io/) (em breve)
 
 ## Open Source
 

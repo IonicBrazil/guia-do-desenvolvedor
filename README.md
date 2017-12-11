@@ -154,7 +154,7 @@ Url | Autor | Nível | Indioma
 * [Writing for IELTS and TOEFL](http://writingskills.leonardofaria.net) por @leozera
 * [AgendaKids](https://play.google.com/store/apps/details?id=com.agendakidsdigital.app) por @vitormalencar
 * [Clicou Partiu](https://play.google.com/store/apps/details?id=br.com.clicoupartiu) por @isaquediasm & @cjpatoilo
-* [Campeão Supermercados] (https://itunes.apple.com/us/app/campeao-+-voce!/id1018798047?mt=8) por @douglaszaltron & @FernandoFHS
+* [Campeão Supermercados](https://itunes.apple.com/us/app/campeao-+-voce!/id1018798047?mt=8) por @douglaszaltron & @FernandoFHS
 * [Today - Live Moments](https://play.google.com/store/apps/details?id=com.maqhin.today_&hl=en) por [Maqhin Soluções Tecnológicas](http://www.maqhin.com.br/site/index.php)
 
 ## Comunidade Ionic Brazil

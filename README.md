@@ -76,7 +76,7 @@ Url | Assunto | Autor | Nível
 - :a:: Angular
 - :vibration_mode:: Ionic
 
-Url | Assunto | Autor | Nível | Indioma
+Url | Assunto | Autor | Nível | Idioma
 --- | --- | --- | --- | ---
 [Ionic FrameWork (Login com Redes Sociais e FireBase) PT-BR](https://www.youtube.com/playlist?list=PLZM1UQ94Dm7O7YPc8SuZsfEFvxlLUroGC) | :vibration_mode: | Pedro Henrique | :large_orange_diamond: | Português
 [Introdução ao Ionic](https://www.youtube.com/playlist?list=PLalnMrJS3xs02-QtOxLj294DMXG6y-QMh)| :vibration_mode: | @raphaelpor | :green_heart: | Português
@@ -89,7 +89,7 @@ Url | Assunto | Autor | Nível | Indioma
 - :large_orange_diamond:: Intermediário
 - :red_circle:: Avançado
 
-Url | Autor | Nível | Indioma
+Url | Autor | Nível | Idioma
 --- | --- | --- | ---
 [#1 Ionic Framework - Essencial](http://fabiorogeriosj.com.br/2016/05/02/Ebook-1-Ionic-Framework-Essencial/) | @fabiorogeriosj | :green_heart: | Português
 [#2 Ionic Framework - Customizando e criando componentes](http://fabiorogeriosj.com.br/2016/06/24/Ebook-2-Ionic-Framework-Customizando-e-criando-componentes/) | @fabiorogeriosj | :green_heart: | Português
